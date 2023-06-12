@@ -1,6 +1,11 @@
 ---
-revision_id: a0d8bf9c-628e-11ec-a009-9a72181d6fc2
-revision_date: 1640112526
+title: Balancing
+description: 
+published: 1
+date: 2023-06-12T16:37:26.782Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:19.068Z
 ---
 
 ## Balancing
