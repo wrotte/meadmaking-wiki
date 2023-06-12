@@ -84,7 +84,7 @@ An example of why pH is a tough topic: citric acid is more toxic to brewer's yea
 
 ##### Fatty Acids
 
-A general cause of fermentation problems isn't acids in general but excess fatty acids.  They are synthesized by yeast and used in reproduction but also dissolve when ABV increases and waxes dissolve.  They are known to cause stalls.  Yeast hulls up to 0.5-1g/gal or 0.5-1g/4L is the recommended course.  Substitute [boiled yeast](/ingredients/nutrients#using_boiled_bread_yeast_.28bby.29_as_a_fermaid_o_substitude) at the same rate since we only want their hulls.  A small amount of YAN is introduced but that is a side effect instead of intent and is small enough to safely be ignored.
+A general cause of fermentation problems isn't acids in general but excess fatty acids.  They are synthesized by yeast and used in reproduction but also dissolve when ABV increases and waxes dissolve.  They are known to cause stalls.  Yeast hulls up to 0.5-1g/gal or 0.5-1g/4L is the recommended course.  Substitute [boiled yeast](/ingredients/nutrients#using-boiled-bread-yeast) at the same rate since we only want their hulls.  A small amount of YAN is introduced but that is a side effect instead of intent and is small enough to safely be ignored.
 
 ##### Rectifying pH/acid problems
 
