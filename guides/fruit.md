@@ -1,6 +1,11 @@
 ---
-revision_id: 3f4be438-261c-11ec-85e9-3e27058e18a6
-revision_date: 1633466330
+title: Fruit
+description: 
+published: 1
+date: 2023-06-12T22:53:01.886Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:59:30.339Z
 ---
 
 ## Fruit
