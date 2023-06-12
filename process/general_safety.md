@@ -1,6 +1,11 @@
 ---
-revision_id: 7a90655a-6604-11ec-9215-5202c7726527
-revision_date: 1640492996
+title: General Safety
+description: 
+published: 1
+date: 2023-06-12T16:40:02.058Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:35.197Z
 ---
 
 ## General Safety
