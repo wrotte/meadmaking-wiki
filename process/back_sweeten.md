@@ -1,19 +1,24 @@
 ---
-revision_id: e2b48321-9006-11eb-a0c0-0e448a7f22bf
-revision_date: 1616964481
+title: Back Sweetening
+description: 
+published: 1
+date: 2023-06-12T16:36:57.720Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:15.268Z
 ---
 
 ## Back Sweetening Mead
 
 Mead is back sweetened to add sweetness after fermentation is complete. In order to back sweeten mead, it *must* first be [stabilized](/process/stabilization). Attempting to back sweeten a non-stable mead will not work in most cases.
 
-###Benefits
+### Benefits
 
 Mead that is too dry can be unbalanced. A dry mead may be too acidic, or a spicy mead too one-dimensional.
 
 Flavorings that rely upon sweetness for context (like honey and fruit) can be delicate or even indistinct. Even a melomel with a large fruit load may be unrecognizable in the absence of sugar. Adjusting the sweetness level can bring these flavors back into focus.
 
-###Process
+### Process
 
 Back sweetening is best done after the mead is mostly clear. Yeast and particulate matter significantly change the flavor of a mead and can throw the balance far off. It's also best to do immediately after racking off the lees, because you'll be stirring the must. There's no reason to re-suspend particulate matter that has already dropped out.
 
@@ -41,6 +46,6 @@ After you hit your desired final gravity, give it time to clear up, do any final
 
 After this you can [bulk age](/process/aging#bulk_aging) or even [bottle](/r/mead/wiki/process/packaging) your mead.
 
-###Non-Fermentable Sugars
+### Non-Fermentable Sugars
 
 An alternative to back sweetening with honey or another fermentable sugar is to use a nonfermentable sugar like lactose or xylitol. This has the advantage that you don't have to worry about renewed fermentation. Some artificial sweeteners have short shelf lives. (If you've ever wondered why diet soda expires so quickly, this is why!) Others have distinct tastes or aren't terribly sweet-tasting to start with. Before using these in a large batch, you may wish to experiment on a smaller scale.
