@@ -1,6 +1,11 @@
 ---
-revision_id: 62d694cc-999b-11ed-9f58-76a79a2c5d1d
-revision_date: 1674312817
+title: Nutrients
+description: 
+published: 1
+date: 2023-06-12T22:47:52.115Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:59:54.318Z
 ---
 
 ## Nutrients
