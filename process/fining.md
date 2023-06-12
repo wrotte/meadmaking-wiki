@@ -32,8 +32,8 @@ Below is a table of beginner friendly fining agents commonly available to most h
 
 A  | B 
 ---|---
-[Bentonite](/process/fining#wiki_bentonite)  |  [Chitosan](https://www.reddit.com/r/mead/wiki/process/fining#wiki_chitosan)
-[Kieselsol](/edit/process/fining#wiki_kieselsol_.28silica_gel.29) | [Isinglass](https://www.reddit.com/r/mead/wiki/process/fining#wiki_isinglass)
+[Bentonite](/process/fining#wiki_bentonite)  |  [Chitosan](https://www.reddit.com//process/fining#wiki_chitosan)
+[Kieselsol](/edit/process/fining#wiki_kieselsol_.28silica_gel.29) | [Isinglass](https://www.reddit.com//process/fining#wiki_isinglass)
   | [Sparkalloid](/process/fining#wiki_sparkalloid)
 
 Fining agents work best in pairs, so when you decide to clarify your mead, select one from column A, and one from column B.   It is highly recommended to read the section on each fining agent you choose to use.  Aside from bentonite, fining agents are best used after mead has been racked out of the fermenter.  There are two important highlights:
@@ -246,7 +246,7 @@ More success may be had from cold conditioning, which is keeping the mead cold f
 
 ### Filtration
 
-*See our guide on [filtration](/r/mead/wiki/guides/filtration) for more info*
+*See our guide on [filtration](//guides/filtration) for more info*
 
 Filtration allows yeast and other particles to be wholly removed from the brew. This is done with specialized equipment and NOT coffee filters or cheese cloth. Filtration does not solve all problems as even 0.45 micron filters will not catch proteins and other very fine particles. It does produce a stable mead, however.
 

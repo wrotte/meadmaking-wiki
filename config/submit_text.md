@@ -5,9 +5,9 @@ revision_date: 1679835514
 
 ##Questions
 
-The mead subreddit wiki (linked in top bar or via FAQ link) and [FAQ](r/mead/wiki/index#wiki_f.a.q.) are valuable resources.
+The mead subreddit wiki (linked in top bar or via FAQ link) and [FAQ](/index#wiki_f.a.q.) are valuable resources.
 
-Please consult [Basic Problems (AKA: Did I ruin my mead?)](r/mead/wiki/faq/basic_problems) before submitting your question.
+Please consult [Basic Problems (AKA: Did I ruin my mead?)](/faq/basic_problems) before submitting your question.
 
 When you ask a question, please include as much of following as possible:
 * Ingredients

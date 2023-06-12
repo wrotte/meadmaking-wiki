@@ -7,7 +7,7 @@ revision_date: 1667403808
 
 It's important to understand the differences between clean, sanitized, and sterile. *Cleaning* is the removal of material from the surface. *Sanitization* is reducing the number of organisms on a surface, usually to an acceptable level. *Sterilizing* means removing all organisms. In mead making, we aren't concerned with sterile. That's mostly reserved for hospital grade equipment. We *do* care about cleaning and sanitizing, however.
 
-Before trying to sanitize a surface, it's important to [clean](/r/mead/wiki/process/cleaning) it first. While some sanitizers or sanitation methods may be able to penetrate surface material to some degree, it's good practice to remove as much as possible before moving on to sanitation.
+Before trying to sanitize a surface, it's important to [clean](//process/cleaning) it first. While some sanitizers or sanitation methods may be able to penetrate surface material to some degree, it's good practice to remove as much as possible before moving on to sanitation.
 
 In more advanced recipes and in casual discussion, sanitation is often breezed over - if it's mentioned at all. By no means is this because it isn't important, it's because sanitation is accepted as a *given fact* for any home brewer or mead maker after only a handful of batches.
 

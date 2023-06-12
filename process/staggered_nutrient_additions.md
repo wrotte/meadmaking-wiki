@@ -13,7 +13,7 @@ This is not a required aspect of mead making, but rather an improvement designed
 
 ###Background
 
-Mead must is, of course, so [nutrient deficient](/r/mead/wiki/ingredients/nutrients) that mead makers have to supplement the must with a variety of substances, particularly yeast assimilable nitrogen (YAN), to give the yeast healthy enough conditions to ferment honey without producing off flavors. Yeast, unfortunately, aren't so great at rationing their supplies and enter a "feeding frenzy" in the sudden presence of abundance, causing the speed of [fermentation](/r/mead/wiki/process/fermentation) to increase. As fermentation is an exothermic process, this causes the temperature of the must to temporarily spike. The end result of a warmer ferment is an increase in the production of fusel alcohols which are responsible for the "hot," "jet fuel," or "young" taste in a new wine. Part of the aging process is to allow these to break down over time.
+Mead must is, of course, so [nutrient deficient](//ingredients/nutrients) that mead makers have to supplement the must with a variety of substances, particularly yeast assimilable nitrogen (YAN), to give the yeast healthy enough conditions to ferment honey without producing off flavors. Yeast, unfortunately, aren't so great at rationing their supplies and enter a "feeding frenzy" in the sudden presence of abundance, causing the speed of [fermentation](/r/mead/wiki/process/fermentation) to increase. As fermentation is an exothermic process, this causes the temperature of the must to temporarily spike. The end result of a warmer ferment is an increase in the production of fusel alcohols which are responsible for the "hot," "jet fuel," or "young" taste in a new wine. Part of the aging process is to allow these to break down over time.
 
 ###The Idea
 
@@ -25,7 +25,7 @@ The rate of fermentation is smoothed out. The one large spike in speed and tempe
 
 ###Determine a Schedule
 
-*See our wiki article on current best-practice [nutrient schedules](/r/mead/wiki/process/nutrient_schedules).  Context below reference the TBE schedule.*
+*See our wiki article on current best-practice [nutrient schedules](//process/nutrient_schedules).  Context below reference the TBE schedule.*
 
 There are nearly as many schedules as there are meadmakers; however, there are limitations that dictate certain aspects of it. Most importantly, the mead maker must take into consideration which nutrients they intend to use. 
 
@@ -39,7 +39,7 @@ In the example below, purely organic nitrogen sources are used first. Sources co
 
 ###Example
 
-See [Nutrient Schedules](r/mead/wiki/process/nutrient_schedules) for several additional specific schedules.
+See [Nutrient Schedules](/process/nutrient_schedules) for several additional specific schedules.
 
 The following is an example and is intended for a 5 gallon batch of a normal strength (≤14%) must fermented with a low nutrient requirement yeast, like Narbonne.
 
@@ -60,7 +60,7 @@ Nutrients:
 
 1. 24 hours later, add 1.83 g DAP and 2.83 g Fermaid K.
 
-† This physically adds less than 20 ppm, but Fermaid O is worth 3-4x its true weight in nitrogen content for the purpose of calculating YAN. See [Advanced Nutrients in Meadmaking](/r/mead/wiki/resources/advanced_nutrients) for more information.
+† This physically adds less than 20 ppm, but Fermaid O is worth 3-4x its true weight in nitrogen content for the purpose of calculating YAN. See [Advanced Nutrients in Meadmaking](//resources/advanced_nutrients) for more information.
 
 ###Resources: 
 

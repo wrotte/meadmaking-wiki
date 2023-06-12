@@ -5,11 +5,11 @@ revision_date: 1684519883
 
 ##Stabilization
 
-Mead is stabilized for several reasons. A stable mead will not restart fermentation. This allows it to be safely packaged and to maintain flavor consistency. This also allows the meadmaker to [back sweeten](/r/mead/wiki/process/back_sweeten) the mead if desired. Lastly, stabilized mead is more resistant to degradation and infection.
+Mead is stabilized for several reasons. A stable mead will not restart fermentation. This allows it to be safely packaged and to maintain flavor consistency. This also allows the meadmaker to [back sweeten](//process/back_sweeten) the mead if desired. Lastly, stabilized mead is more resistant to degradation and infection.
 
 Mead should be stabilized once fermentation is complete and the mead has begun to clear. You don't have to wait for it to clear completely (as that may cause you to need to wait for it to clear again), but trying to stabilize mead too early can curtail the final stages of fermentation when yeast are cleaning up after themselves.
 
-Stabilization may happen naturally [\(see below\)](r/mead/wiki/process/stabilization#wiki_via_yeast_alcohol_tolerance). For some meads it can be beneficial, though unnecessary - for example a normal strength mead that is completely dry.
+Stabilization may happen naturally [\(see below\)](/process/stabilization#wiki_via_yeast_alcohol_tolerance). For some meads it can be beneficial, though unnecessary - for example a normal strength mead that is completely dry.
 
 Always confirm that your mead is stable before storing in sealed vessels or packaging. Confirm this by taking gravity readings after back sweetening and a week or so afterwards.
 

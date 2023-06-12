@@ -43,4 +43,4 @@ Be careful when buying from large retailers like Amazon, especially when purchas
 
 ###Read More
 
-Detailed information on yeast types and selection may be found on the [Ingredients/Yeast](/r/mead/wiki/ingredients/yeast) page of this wiki.
+Detailed information on yeast types and selection may be found on the [Ingredients/Yeast](//ingredients/yeast) page of this wiki.

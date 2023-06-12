@@ -65,7 +65,7 @@ The safest solution to this is to use a properly-rated vacuum chamber and can be
 
 ### Microbes &amp; Infections
 
-We have a page about [infections](/process/infection) already.  This is a safety-oriented section only.  Yeasts are safe to use and consume in small amounts (some may experience gastric disturbances howveer), especially commercially obtained ones.  A 'vinegary' taste is often not an infection.  Those new to brewing may underestimate how acidic something is naturally.  Compare to actual vinegar and consult [acid-tannin balance](https://www.reddit.com/r/mead/wiki/process/process_summary#wiki_acid_tannin_balance) for flavor improvement steps.
+We have a page about [infections](/process/infection) already.  This is a safety-oriented section only.  Yeasts are safe to use and consume in small amounts (some may experience gastric disturbances howveer), especially commercially obtained ones.  A 'vinegary' taste is often not an infection.  Those new to brewing may underestimate how acidic something is naturally.  Compare to actual vinegar and consult [acid-tannin balance](https://www.reddit.com//process/process_summary#wiki_acid_tannin_balance) for flavor improvement steps.
 
 #### Mold
 

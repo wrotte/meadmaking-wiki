@@ -9,7 +9,7 @@ Whether you are an experienced meadmaker or just starting here are a few tips to
 
 1) Please be kind on r/mead. People are here to learn and to help others make better mead and to share their passion about mead. 
 
-2) Please read the wiki, a lot of general questions are answered there and it is a useful source of information. - http://www.reddit.com/r/mead/wiki 
+2) Please read the wiki, a lot of general questions are answered there and it is a useful source of information. - http://www.reddit.com/ 
 
 3) If you have not already it is recommended that you purchase a hydrometer as it will be highly useful in helping people to assist you with any question or issues you are having.
 

@@ -7,7 +7,7 @@ revision_date: 1634663647
 
 ###Active Fermentation
 
-If a mead is actively fermenting, the answer is that there isn't a problem of "too much" headspace. During fermentation, you're more likely to suffer from [too little.](/r/mead/wiki/faq/overflow)
+If a mead is actively fermenting, the answer is that there isn't a problem of "too much" headspace. During fermentation, you're more likely to suffer from [too little.](//faq/overflow)
 
 ###Post-Fermentation/Aging
 

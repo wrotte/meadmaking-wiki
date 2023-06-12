@@ -51,11 +51,11 @@ Use a single space after sentences.
 
 Avoid the terms "Primary" and "Secondary," as they can be inexact and confusing for newbies.
 
-Read the [Please Help](r/mead/wiki/please_help) page, and keep it updated. If you are the primary author of an article, add it to the "Proof Read" section.
+Read the [Please Help](/please_help) page, and keep it updated. If you are the primary author of an article, add it to the "Proof Read" section.
 
 ###Directory Structure and Scope
 
-Most pages should be placed in a directory or subdirectory. Please see the wiki [sitemap](http://www.reddit.com/r/mead/wiki/pages) to figure out what directories already exist. Use your best judgement. If you're unsure, ask the mods or an approved editor before creating the page. If a subject arguably belongs in more than one place, it's acceptable to duplicate basic information and links across multiple pages. Use thoughtful judgement about when to link to another page vs when to reproduce information.
+Most pages should be placed in a directory or subdirectory. Please see the wiki [sitemap](http://www.reddit.com//pages) to figure out what directories already exist. Use your best judgement. If you're unsure, ask the mods or an approved editor before creating the page. If a subject arguably belongs in more than one place, it's acceptable to duplicate basic information and links across multiple pages. Use thoughtful judgement about when to link to another page vs when to reproduce information.
 
  * Example: If writing about spices, it probably goes under /wiki/**ingredients**/herbs_and_spices.
 

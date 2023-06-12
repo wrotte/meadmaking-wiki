@@ -25,11 +25,11 @@ Did you accidentally kill your yeast during rehydration, or pitch them into temp
 
 Are you attempting to ferment outside the ideal temperature range of your yeast? Consult the manufacturer’s yeast data sheet for this information. Slightly too warm isn't likely to be a cause (fermentation would proceed happily, but create unwanted esters, fusel alcohols, and "rocket fuel" flavor), but if it's too cool fermentation can easily slow to a halt.
 
-Did you follow the recipe's nutrition additive requirements? If you made the recipe, are you sure your nutrition additives were sufficient? See [Advanced Nutrients in Meadmaking](/r/mead/wiki/resources/advanced_nutrients) if this could be the case. Check the documentation from the yeast manufacturer.
+Did you follow the recipe's nutrition additive requirements? If you made the recipe, are you sure your nutrition additives were sufficient? See [Advanced Nutrients in Meadmaking](//resources/advanced_nutrients) if this could be the case. Check the documentation from the yeast manufacturer.
 
 Did you do something to significantly change the pH of the must? Yeast generally like a starting pH between 3.7 and 4.6. The pH will drop during fermentation, and if you start below 3.0, you are likely to have problems before fermentation is finished, if not immediately.
 
-For more information, see the dedicated page for [Stuck Fermentation](/r/mead/wiki/protocol/stuck_fermentation).
+For more information, see the dedicated page for [Stuck Fermentation](//protocol/stuck_fermentation).
 
 ### The honey separated out.
 
@@ -47,7 +47,7 @@ If the mead has aged a long time without clearing, you can consider [fining prod
 
 ### My mead smells weird.
 
-If it smells like rotten eggs, the yeast are telling you that they're starved of nitrogen. Adding additional nitrogen (Diammonium Phosphate, nutrient additives, [raisins](r/mead/wiki/faq/alternative_nutrient_sources#wiki_raisins), yeast hulls, etc) should clear this right up most of the time.
+If it smells like rotten eggs, the yeast are telling you that they're starved of nitrogen. Adding additional nitrogen (Diammonium Phosphate, nutrient additives, [raisins](/faq/alternative_nutrient_sources#wiki_raisins), yeast hulls, etc) should clear this right up most of the time.
 
 If this is your first mead, and it doesn't smell offensive, this might just be how mead smells when it's fermenting. Don't sweat it. Wait it out.
 

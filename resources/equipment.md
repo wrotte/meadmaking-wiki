@@ -9,7 +9,7 @@ A lot of equipment is personal preference. Read through the list and feel free t
 
 ###Sanitation Equipment
 
-Read about the process of sanitation [here.](/r/mead/wiki/process/sanitation)
+Read about the process of sanitation [here.](//process/sanitation)
 
 * Spray Bottle - keeps no-rinse sanitizer potent for a longer period of time. Convenient for spot-sanitizing, spraying on your hands, or any small piece of equipment without making up an entire bucket.
 
@@ -19,7 +19,7 @@ Read about the process of sanitation [here.](/r/mead/wiki/process/sanitation)
 
 ###Fermentation Vessels 
 
-You can read more about the process of fermentation [here.](/r/mead/wiki/process/fermentation)
+You can read more about the process of fermentation [here.](//process/fermentation)
 
 * Bucket
 
@@ -34,7 +34,7 @@ You can read more about the process of fermentation [here.](/r/mead/wiki/process
 
  * Again, you need a larger carboy than your batch size.
 
- * [Glass or plastic](/r/mead/wiki/faq/glass_vs_plastic) probably doesn't matter for fermentation.
+ * [Glass or plastic](//faq/glass_vs_plastic) probably doesn't matter for fermentation.
 
  * Will work in a pinch, but a bucket is much easier to work with during the early stages of fermentation when using advanced techniques.
 
@@ -42,7 +42,7 @@ You can read more about the process of fermentation [here.](/r/mead/wiki/process
 
 ###Bulk Aging Vessels
 
-You probably want to decide between [glass and plastic.](/r/mead/wiki/faq/glass_vs_plastic)
+You probably want to decide between [glass and plastic.](//faq/glass_vs_plastic)
 
 * Glass Carboys or PET Carboys / Better Bottles
 
@@ -195,7 +195,7 @@ The autosiphon is a mighty gift to homebrewers.
 
 ### Packaging
 
-For the full article on Packaging, which goes into much greater detail, [click here.](/r/mead/wiki/process/packaging)
+For the full article on Packaging, which goes into much greater detail, [click here.](//process/packaging)
 
 Though often ignored until the last minute, packaging is an important consideration.
 

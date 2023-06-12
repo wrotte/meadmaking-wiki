@@ -13,7 +13,7 @@ There are many variables that will affect how your yeast performs, and therefore
 
 **Original Gravity** – This is a measure of how much sugar is in the mead, determined with a hydrometer or refractometer.  A very high gravity mead that produces a lot of alcohol will take longer to age.
 
-**Oxygen** – Yeast use it during reproduction in the lag phase. A must can be [aerated](/r/mead/wiki/process/aeration_degassing) by vigorous stirring, by hand or with a drill and mix-stir attachment.  Many mead makers aerate their must until 1/3 of the sugar content has been metabolized.
+**Oxygen** – Yeast use it during reproduction in the lag phase. A must can be [aerated](//process/aeration_degassing) by vigorous stirring, by hand or with a drill and mix-stir attachment.  Many mead makers aerate their must until 1/3 of the sugar content has been metabolized.
 
 **Nutrients** – Honey has very little in the way of yeast nutrition. It is particularly nitrogen deficient. adding [yeast nutrient](/ingredients/nutrients) will help fermentation complete without off flavors. 
 

@@ -5,7 +5,7 @@ revision_date: 1649357686
 
 ## Nutrient Schedules
 
-This article focuses on the currently used nutrient schedules in meadmaking. See our article on [staggered nutrient additions](/r/mead/wiki/process/staggered_nutrient_additions) for context and background information on the practice.
+This article focuses on the currently used nutrient schedules in meadmaking. See our article on [staggered nutrient additions](//process/staggered_nutrient_additions) for context and background information on the practice.
 
 These schedules are presented as of October 2021 and may not represent the latest changes. This is fluid information based on the latest published research from yeast manufacturers and experimental evidence from mead makers. See the linked source material for the most up-to-date information.
 
@@ -66,7 +66,7 @@ Ingredients:
 
 #### Dry Protocol
 
-1 - [Rehydrate with GoFerm](/r/mead/wiki/process/rehydration#wiki_process.3A_rehydration_with_go-ferm.2C_attemperation.2C_and_pitching)
+1 - [Rehydrate with GoFerm](//process/rehydration#wiki_process.3A_rehydration_with_go-ferm.2C_attemperation.2C_and_pitching)
 
 2 - Add potassium carbonate at 1.5g/US gal or 0.4g/L
 
