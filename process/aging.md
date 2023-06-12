@@ -1,15 +1,20 @@
 ---
-revision_id: 0ca93a08-3b48-11ec-930f-029d59dd6e3e
-revision_date: 1635794117
+title: Aging
+description: 
+published: 1
+date: 2023-06-12T16:36:18.921Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:12.109Z
 ---
 
-##Aging
+## Aging
 
 You'll see it said again and again: mead is a patient person's drink. Like wine, it benefits from aging, both before and after bottling. Mead can age just as long (or longer) than wine, under the right conditions.
 
 A lot of the scientific information for aging is specific to wine, but seems to apply to mead as well.
 
-###Bulk Aging
+### Bulk Aging
 
 To bulk age a mead simply means to give it additional time in a carboy prior to bottling. This allows it time to clear and mature as a single unit and creates higher consistency between future bottles.
 
@@ -17,7 +22,7 @@ During bulk aging, oxidation is a major concern and can be handled via several t
 
 There is often no immediate need to rack upon completion of primary fermentation.  Yeast will flocculate (clump together and drop to the bottom) out over time at different rates (days to weeks to a month) depending on their strain.  The concern about leaving a mead on the lees is autolysis, but is hardly a concern both on homebrew time scale and batch size.  Even a month is not enough time to make a difference for that but can allow it to clear.  It can reduce the amount of rackings needed which can reduce oxygen exposure.  Cold crashing is often ineffective but time is the real winner for clearing the majority of meads (exceptions being fruited meads, pectins can cause persistent haze even after the yeast is gone).  More time clearing in primary or secondary prevents yeast cakes from forming in the bottom of bottles.
 
-####Headspace in Bulk Aging
+#### Headspace in Bulk Aging
 
 Minimal headspace is the most ideal way to fight oxidation.  Firstly, choose a narrow neck secondary container like a carboy and not a bucket or mason jar.  Secondly, plan ahead and primary in a vessel slightly larger than your secondary one.  For example, 6.5 gallon carboy with 5.5 gallons of mead in primary racked into a 5 gallon carboy.  2 gallon bucket with 1.25 gallons of mead racked into 1 gallon carboy, etc.  Anticipate about 1/2 gallon (~2L) of losses on traditional batches around 5-6 gallons (~19-23L) and 1 quart (~1L) on traditional batches around 1 gallon (~4L).  Both of those will keep airspace above mead to a minimal.  Your mileage may vary depending on fermenter setup, adjunct use (this varies a lot), racking capability (siphon versus racking arm), etc.  Heavily fruited meads and other absorbent adjuncts (like hops) will claim their share of your mead.
 
@@ -27,7 +32,7 @@ The space can also be filled by topping up the carboy. When creating a batch, it
 
 As a last ditch (not recommended by experienced members here, follow above guidelines instead) the extra space can also be neutralized with a filler material like marbles. If taking this route, be sure to thoroughly sanitize the filler. Also be aware that dropping glass marbles into a glass carboy is a good way to break the carboy.  This will incur heavy losses as you will not be able to effectively siphon below the marbles.  It is the least advisable for practicality and safety reasons.  Plan ahead and keep more of your mead.
 
-####Minimizing Oxidation
+#### Minimizing Oxidation
 
 Use sulfites.  Potassium metabisulfite or campden tablets can be used to add SO2 to your mead.  This is beneficial since the SO2 scavenges free oxygen before it can get to other compounds in the mead, then off-gas.  They are safe to use and used in many industries such as commercial wine and meadmaking.  They do not change taste when used in appropriate amounts.  25-50 ppm are simple amounts which are beneficial to most styles of mead.  There is a [calculator](https://winemakermag.com/resource/1301-sulfite-calculator) for calculating what you need to get that.  Other styles may have different needs, winemaking resources have lots of wisdom on that topic.  Add sulfites each time you rack for maximum protection.
 
@@ -37,11 +42,11 @@ A note about filtration: it is entirely ineffective without using specialized eq
 
 There is no standard time frame for bulk aging; anywhere from 3-60 months is very common.  It is style-dependent and driven by the goals you have.
 
-###Bottle Aging
+### Bottle Aging
 
 Aging continues once the mead is put into bottles. Oxygen exchange, as allowed by natural cork, will speed this process, but [even in an anaerobic environment](http://www.jancisrobinson.com/articles/study-proves-oxygen-not-necessary-for-wine-ageing) like a perfectly sealed crown-capped bottle, chemical reactions will continue to take place which will mature the mead.
 
-####Corks
+#### Corks
 
 When using bottles sealed with corks, several factors can place a limit on the amount of time a bottle can be allowed to age. 
 
@@ -55,26 +60,26 @@ When using bottles sealed with corks, several factors can place a limit on the a
 
 * Corks have a shelf life. Use corks within about 6 months of purchase for best results.
 
-###Other Limiting Factors
+### Other Limiting Factors
 
 * If using potassium sorbate as a preservative, or to stabilize a mead for backsweetening, be aware that it can create a shorter shelf life. It breaks down into ethyl sorbate, which will contribute [pineapple or celery flavors](http://winemakersacademy.com/potassium-sorbate-wine-making/).
 
-###Using Oak
+### Using Oak
 
 [This section needs to be expanded]
 
-####External references about using oak
+#### External references about using oak
 
 *  [Oak Information Paper from MoreWine (PDF)](https://morewinemaking.com/web_files/intranet.morebeer.com/files/oakinfopaper09.pdf)
 
 * [Oak and Mead](https://gotmead.com/blog/articles/effects-of-oak-on-mead/) via GotMead
 
-###Clarity
+### Clarity
 
 [This section needs to be expanded]
 
-####Finings
+#### Finings
 
 [Please see the article on fining.](/process/fining)
 
-####Time
+#### Time
