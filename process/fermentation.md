@@ -1,9 +1,14 @@
 ---
-revision_id: e989a11c-67b1-11e6-a3ba-0e4ade1ffe2b
-revision_date: 1471792450
+title: Fermentation
+description: 
+published: 1
+date: 2023-06-12T16:39:30.808Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:28.581Z
 ---
 
-##Fermentation
+## Fermentation
 
 Fermentation is a process in which yeast digest sugars, breaking them down primarily into carbon dioxide and ethyl alcohol, along with various byproducts.
 
@@ -21,7 +26,7 @@ There are many variables that will affect how your yeast performs, and therefore
 
 **pH** – Sometimes your must is too acidic for a healthy fermentation.  You can adjust with potassium carbonate, potassium bicarbonate or calcium carbonate. For a healthy fermentation, start at 3.8-4.6 pH.
 
-##Fermentation "Phases"
+## Fermentation "Phases"
 
 These are not necessarily scientific terms. They are guidelines and common terms used to help describe the different stages of fermentation.
 
