@@ -1,6 +1,11 @@
 ---
-revision_id: 27fcba3a-aa17-11ec-8b14-36267c9b8b51
-revision_date: 1647977697
+title: Filtration
+description: 
+published: 1
+date: 2023-06-12T22:52:41.486Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:59:27.361Z
 ---
 
 ## Filtration
