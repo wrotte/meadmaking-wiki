@@ -1,6 +1,11 @@
 ---
-revision_id: 3184df12-b6a4-11ec-aec1-feb23edb619e
-revision_date: 1649357686
+title: Nutrient Schedules
+description: 
+published: 1
+date: 2023-06-12T16:40:50.999Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:38.501Z
 ---
 
 ## Nutrient Schedules
