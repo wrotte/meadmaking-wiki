@@ -1,6 +1,11 @@
 ---
-revision_id: 02cc443e-be98-11ec-8b5b-024644345f45
-revision_date: 1650232063
+title: Fining Agents
+description: 
+published: 1
+date: 2023-06-12T16:24:53.680Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:31.540Z
 ---
 
 # Fining Agents
