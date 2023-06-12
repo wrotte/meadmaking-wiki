@@ -7,7 +7,7 @@ revision_date: 1553805179
 
 So, what is cleaning? It's important to understand the differences between clean, sanitized, and sterile. Cleaning is the removal of material from the surface. Sanitizing means reducing the number of organisms on a surface, usually to an acceptable level. Sterilizing means removing all organisms. In mead making, we aren't concerned with sterility. That's mostly reserved for hospital-grade equipment. We do care about cleaning and sanitizing, however.
 
-"Clean" equipment isn't *yet* ready to use. After cleaning your equipment, it should be [sanitized](//process/sanitation).
+"Clean" equipment isn't *yet* ready to use. After cleaning your equipment, it should be [sanitized](/process/sanitation).
 
 ###Brushes and Scrubbing
 

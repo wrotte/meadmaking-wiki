@@ -7,7 +7,7 @@ revision_date: 1459958874
 
 This is the defining ingredient in mead. Without honey, it isn't mead. As such, it's the most important ingredient.
 
-For more information on honey varietals and monoflorals, see the ingredients entry for [Honey](//ingredients/honey).
+For more information on honey varietals and monoflorals, see the ingredients entry for [Honey](/ingredients/honey).
 
 ### Where do I find honey?
 

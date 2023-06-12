@@ -246,7 +246,7 @@ More success may be had from cold conditioning, which is keeping the mead cold f
 
 ### Filtration
 
-*See our guide on [filtration](//guides/filtration) for more info*
+*See our guide on [filtration](/guides/filtration) for more info*
 
 Filtration allows yeast and other particles to be wholly removed from the brew. This is done with specialized equipment and NOT coffee filters or cheese cloth. Filtration does not solve all problems as even 0.45 micron filters will not catch proteins and other very fine particles. It does produce a stable mead, however.
 

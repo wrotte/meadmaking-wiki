@@ -5,7 +5,7 @@ revision_date: 1647977697
 
 ## Filtration
 
-Filtration is a method for fining mead.  Other methods can be seen at the [fining agents](//process/fining) page.  This is a top-tier approach to fining which includes more equipment and process to accomplish.  It is by no means necessary and excellent results can be had via commercially available fining agents.
+Filtration is a method for fining mead.  Other methods can be seen at the [fining agents](/process/fining) page.  This is a top-tier approach to fining which includes more equipment and process to accomplish.  It is by no means necessary and excellent results can be had via commercially available fining agents.
 
 ### Effective v. Ineffective Filtration
 

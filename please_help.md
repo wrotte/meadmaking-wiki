@@ -7,7 +7,7 @@ revision_date: 1640112962
 
 **Add ~~strikethrough~~ (\~~double tilde\~~) to an item that has been completed.** (A moderator will remove completed items from this list.)
 
-**Please read the [guidelines](//wiki_editing_guidelines) before editing.**
+**Please read the [guidelines](/wiki_editing_guidelines) before editing.**
 
 ### Proof Read / Reformat
 
@@ -21,10 +21,10 @@ Nothing currently flagged.
 
 #### Guides
 
-* [Competitions](//guides/competition) 
-* [Barrels](//guides/barrels)
-* [Filtration](//guides/filtration)
-* [Fruit](//guides/fruit) - envisioned as an article that covers many fruit aspects from choosing fruit, to fruit presses, to BFM
+* [Competitions](/guides/competition) 
+* [Barrels](/guides/barrels)
+* [Filtration](/guides/filtration)
+* [Fruit](/guides/fruit) - envisioned as an article that covers many fruit aspects from choosing fruit, to fruit presses, to BFM
 
 #### Ingredients
 
@@ -42,7 +42,7 @@ Nothing currently flagged.
 
 **These sections have content, but need to be fleshed out and expanded. It may require some time and research. Look for "[This section needs to be expanded.]" on the linked page.**
 
-* [Balancing](//process/balancing)
+* [Balancing](/process/balancing)
 
 #### Water
 
@@ -58,8 +58,8 @@ Nothing currently flagged.
 
 #### Ingredients
 
-* [Fruit](//ingredients/fruit) - Needs to be expanded a lot. See [Ingredients/Herbs and Spices.](/ingredients/herbs_and_spices)
+* [Fruit](/ingredients/fruit) - Needs to be expanded a lot. See [Ingredients/Herbs and Spices.](/ingredients/herbs_and_spices)
 
 #### FAQ
 
-* [Alternative Nutrient Sources](//faq/alternative_nutrient_sources) - Try to find more information on dead yest, fruit nitrogen content, and organic additives that *aren't* Fermaid O.
+* [Alternative Nutrient Sources](/faq/alternative_nutrient_sources) - Try to find more information on dead yest, fruit nitrogen content, and organic additives that *aren't* Fermaid O.
