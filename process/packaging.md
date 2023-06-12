@@ -1,6 +1,11 @@
 ---
-revision_id: 10984b44-d28d-11ed-8c8d-e63ff6a394dc
-revision_date: 1680573882
+title: Packaging
+description: 
+published: 1
+date: 2023-06-12T16:42:49.999Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:41.691Z
 ---
 
 ## Bottling, Kegging, and Other Packaging Options
