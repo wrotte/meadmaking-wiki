@@ -1,6 +1,11 @@
 ---
-revision_id: 9d8ea6d4-3a44-11ec-b1a7-4afe96e9f8ff
-revision_date: 1635682691
+title: Terminology
+description: 
+published: 1
+date: 2023-06-12T22:53:43.909Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:59:36.462Z
 ---
 
 ## Terminology
