@@ -1,6 +1,11 @@
 ---
-revision_id: 7b4dbd96-830d-11ec-98c4-eef2e7fd12c4
-revision_date: 1643685446
+title: Yeast Handling
+description: 
+published: 1
+date: 2023-06-12T22:54:34.598Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:59:42.309Z
 ---
 
 # Yeast Handling
