@@ -1,6 +1,11 @@
 ---
-revision_id: 3781e6c6-1fef-11ed-b427-d64b9a377c01
-revision_date: 1660934780
+title: Competition
+description: 
+published: 1
+date: 2023-06-12T22:50:56.787Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:59:24.538Z
 ---
 
 # Competitions
