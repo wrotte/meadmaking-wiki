@@ -1,6 +1,11 @@
 ---
-revision_id: 97d19688-3108-11ec-8d90-ea7fce43869d
-revision_date: 1634667351
+title: Staggered Nutrient Additions
+description: 
+published: 1
+date: 2023-06-12T19:07:57.222Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:01:01.901Z
 ---
 
 ## Staggered Nutrient Additions (SNA)
