@@ -1,13 +1,18 @@
 ---
-revision_id: 9f82c89a-4022-11e9-86cc-0e146ed43ef4
-revision_date: 1551885306
+title: Aeration & Degassing
+description: 
+published: 1
+date: 2023-06-12T16:34:25.202Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:09.063Z
 ---
 
-##Aeration and Degassing
+## Aeration and Degassing
 
 Aeration is the addition of oxygen to the must. Degassing is the removal of CO2. These are techniques which are optional but, when used correctly, can significantly reduce the "hot" flavors produced during fermentation. This results in faster drinkable mead - decreased aging time to reach similar results.
 
-###Aeration
+### Aeration
 
 Yeast need oxygen in the early stages of fermentation - during the lag and growth phase they will use it to reproduce. For this reason, it's beneficial to add oxygen before pitch, and regularly, roughly until 1/3 of the sugar has been metabolized. After this point, additional oxygen may lead to unwanted oxidation.
 
@@ -15,7 +20,7 @@ The easiest way to add oxygen is to mix air into the solution by stirring it vig
 
 [Additional reading can be found here.](https://www.wyeastlab.com/oxygenation/)
 
-###Degassing
+### Degassing
 
 There are a few reasons to degas your mead during fermentation. If you are staggering nutrient additions across the first few days, it is necessary to degas before you make an addition. The nutrient particles provide nucleation points to the dissolved CO2. This works similarly to Diet Coke and Mentos - the result is a mess. Degassing removes this CO2, which in high concentrations will stress your yeast during fermentation.
 
