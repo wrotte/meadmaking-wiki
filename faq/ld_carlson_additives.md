@@ -9,7 +9,7 @@ It's very straightforward. You go with the instructions on the package for L.D. 
 
 L.D. Carlson is not open about what their nutrient additive products contain, or even about nitrogen content, which makes good experimentation and quantification nearly impossible.
 
-###Math
+### Math
 
 /u/balathustrius writes:
 

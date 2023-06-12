@@ -3,7 +3,7 @@ revision_id: 62d694cc-999b-11ed-9f58-76a79a2c5d1d
 revision_date: 1674312817
 ---
 
-##Nutrients
+## Nutrients
 
 Mead musts are very nitrogen deficient. 'Nutrients' refers to nitrogen sources for amino acids which will become protein for yeasts. Adding nitrogen to mead is essential for fermentation success.
 
@@ -13,10 +13,10 @@ The classic fallacy seen in the meadmaking community is that a 'handful of raisi
 
 NOTE: Organic is the chemistry definition meaning hydrocarbon compounds typically (but not exclusively from) biological sources, not the same kind of "FDA organic" labeling which is associated with food examples that are pesticide free, chemical free, etc. Similarly, inorganic is also the chemistry definition meaning not from living things. They are both natural sources and not artificial chemicals.
 
-###Nutrient Sources
+### Nutrient Sources
 
 
-####Diammonium Phosphate
+#### Diammonium Phosphate
 
 Often referred to as "DAP" or sold as "Yeast Nutrient."
 
@@ -26,26 +26,26 @@ Uptake of DAP does not significantly happen above 9% ABV. It is not unusual for 
 
 DAP is sometimes sold with Urea as well. [Urea reacts with ethanol to ethyl carbamate, a known animal carcinogen and suspected human carcinogen](https://www.extension.iastate.edu/wine/ethyl-carbamate-content-wines) and has been banned in professional winemaking for about 30 years. LD Carlson DAP and other turbo yeasts often contain these products. Use at your own risk.
 
-####Fermaid K
+#### Fermaid K
 
 A combination of yeast hulls, DAP, and micro-nutrients. It's basically a hybrid of FermO and DAP that skews in favor of Fermaid O for nitrogen. The micro-nutrients do also benefit cell wall structure.This is like feeding your children mostly veggies and fruit but allowing them a candy for dessert so long as they take their multivitamin.
 
-####Fermaid O
+#### Fermaid O
 
 An organic yeast nutrient that primarily consists of yeast hulls.  This is an organic form of nitrogen. It is less accessible to yeast, but that leads to a steadier fermentation. Feeding yeast FermO is like feeding your children veggies and fruit. They may not like it as much, but it gives them more sustained energy rather than the peaks and valleys they get with candy. This is the source in TOSNA 2.0 and 3.0 schedules.
 
-#####Fermaid O substitutes
+##### Fermaid O substitutes
 
 Availability of Fermaid O can be problematic depending on location. Many manufacturers of winemaking supplies have a very similar product that can be used as a 1:1 replacement if you want to follow TOSNA but cannot find Fermaid O. So far the following products have been used successfully in that way.
 
   - Vitaferm Bio (by Erbslöh, Germany)
   - Nutristart Org (by Laffort, France) 
 
-####Yeast Energizer
+#### Yeast Energizer
 
 A combination of DAP, magnesium sulfate, yeast hulls, and Vitamin B complex that skews heavily towards DAP and vitamin B. This is used to wake yeast up, get them going, and help fortify their cell walls. This is usually reserved for stuck fermentation (give them a quick hit of energy and fortify cell walls to deal with the harsh environment). This is like giving your kid a bunch of vitamin C when they're sick. Once considered helpful for the rehydration process, energizer is no longer recommended for rehydration as DAP can be toxic at high concentrations to yeast during the rehydration process. Some do still like to use energizer when pitching yeast.
 
-####GoFerm
+#### GoFerm
 
 *See [rehydration](/process/rehydration) for more info regarding the process.*
 
@@ -53,11 +53,11 @@ A natural yeast rehydration nutrient containing some micronutrients. It is a pow
 
 Several versions/editions are available. They are GoFerm, GoFerm Protect, and GoFerm Protect Evolution. They were developed (in list order) and are updated versions. Each is slightly newer and an optimized formula. All are good and the newest version boasts improved ester performance. All are excellent.
 
-#####GoFerm substitutes
+##### GoFerm substitutes
 
 One of likely many alternatives to GoFerm is Vitadrive F3 by Erbslöh, Germany. But note that dosage is a bit different as it just asks for 1 gram of Vitadrive F3 per gram of dry yeast.
 
-###Table of Yeast Nutrient Compositions
+### Table of Yeast Nutrient Compositions
 
 | Nutrient Trade Name | Nutrient Type | Inorganic Nitrogen Source | Organic Nitrogen Source | Minerals &amp; Trace Elements | Lipids | Vitamins |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -82,11 +82,11 @@ Asterisks indicate where nitrogen, minerals, trace elements, lipids, and vitamin
 
 Table adapted from C. Bernardo, "Yeast Nutrition in Non-Malt Fermentations", Omega Yeast Labs, presented at HomebrewCon 2022
 
-###Addition Schedules
+### Addition Schedules
 
 See our [staggered nutrient addition page](/process/staggered_nutrient_additions) for more info on schedules and their uses.
 
-###Using Boiled Bread Yeast
+### Using Boiled Bread Yeast
 
 Boiled bread yeast (BBY) can be used as a Fermaid O substitute.
 
@@ -96,7 +96,7 @@ Staggering an is an option, however, this was designed to be made to be simple f
 
 BBY is referred to as bread yeast but any yeast will work. It does not matter if the yeast is old or not viable, as it will be killed anyway and provides the same nutrients.
 
-####Preparing BBY
+#### Preparing BBY
 
 
 &gt; 1a - Determine your Fermaid O requirement (via either Batchbuildr or TOSNA links below). Weigh out 2x to 3x dry bread yeast as Fermaid O
@@ -140,7 +140,7 @@ Grams of BBY per liter batch size:
 BBY Needed = (grams from table) x (batch size)
 
 
-###Further Reading
+### Further Reading
 
 For more information, read Advanced Nutrients in Meadmaking.
 

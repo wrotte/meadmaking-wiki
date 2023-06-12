@@ -3,7 +3,7 @@ revision_id: 1854dbee-5ac5-11ed-b0c8-26bbfb8a84db
 revision_date: 1667403808
 ---
 
-##Sanitizing
+## Sanitizing
 
 It's important to understand the differences between clean, sanitized, and sterile. *Cleaning* is the removal of material from the surface. *Sanitization* is reducing the number of organisms on a surface, usually to an acceptable level. *Sterilizing* means removing all organisms. In mead making, we aren't concerned with sterile. That's mostly reserved for hospital grade equipment. We *do* care about cleaning and sanitizing, however.
 
@@ -23,7 +23,7 @@ In more advanced recipes and in casual discussion, sanitation is often breezed o
 
 ### Sanitizers
 
-####Star San
+#### Star San
 
 Star San is the poster child sanitizer for alcohol production applications. It comes as a concentrate that you mix with water (tap is fine) at the rate of 1 ounce Star San in 5 gallons of water. (If you have a spray bottle with fluid ounce markings - ZEP spray bottles are perfect - this translates to 1/4th tsp Star San per 26 oz water.)
 

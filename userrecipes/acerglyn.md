@@ -3,11 +3,11 @@ revision_id: ac9d2c6f-4304-11eb-8780-0ea3bb7d267f
 revision_date: 1608497292
 ---
 
-##Acerglyn
+## Acerglyn
 
 For maple and honey in all its forms. Even if other adjuncts are present and strong, anything with tree syrups can go here.
 
-###The Lumberjack
+### The Lumberjack
 
 (by /u/shininghero)
 

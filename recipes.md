@@ -3,7 +3,7 @@ revision_id: 85fce17b-c466-11ea-8d20-0ece1f55593d
 revision_date: 1594575520
 ---
 
-##Recipes
+## Recipes
 
 **Notice: Unless you know you should edit one of these recipes, don't. You will lose wiki privileges.**
 
@@ -15,7 +15,7 @@ The Beginner recipes are geared for simplicity and are scaled to one gallon batc
 
 Have fun!
 
-###Beginner
+### Beginner
 
 [Basic Traditional](/recipes/beginner/0001) by /u/StormBeforeDawn
 
@@ -25,11 +25,11 @@ Have fun!
 
 [Basic Cyser](/recipes/beginner/0004) by /u/StormBeforeDawn
 
-###Traditional
+### Traditional
 
 [Traditional](/recipes/traditionals/0001) by /u/StormBeforeDawn
 
-###Metheglin
+### Metheglin
 
 [Rhodomel](/recipes/metheglins/0001) by /u/StormBeforeDawn
 
@@ -41,19 +41,19 @@ Have fun!
 
 [Blackberry Orange Blossom Melomel](/recipes/melomels/0002) by /u/StormBeforeDawn
 
-###Cyser
+### Cyser
 
 [Standard Cyser](/recipes/cysers/0001) by /u/StormBeforeDawn
 
-###Capsicumel
+### Capsicumel
 
 [Oaked, Smoked Capsicumel](/recipes/capsicumels/0001) by /u/balathustrius
 
-###Hydromel
+### Hydromel
 
 [Sparkling Hydromel](/recipes/hydromels/0001) by /u/balathustrius
 
-###Other
+### Other
 
 [Bochet](/recipes/other/0001) by /u/StormBeforeDawn
 

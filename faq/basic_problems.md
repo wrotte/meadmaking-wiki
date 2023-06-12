@@ -9,13 +9,13 @@ Even among the frequently asked questions on /r/mead, some are more frequently a
 
 ### Fermentation is too slow, stuck, or didn't start.
 
-####Are you sure?
+#### Are you sure?
 
 There is *one* way to determine whether fermentation is happening. Take two specific gravity readings with a hydrometer (or refractometer) several (3-7) days apart. If the readings are the same (and greater than 1.000), you may indeed have a problem.
 
 Airlock activity is *not* a reliable indicator of fermentation. Some airlocks are faulty. If you're fermenting in a bucket, the lids are notorious for not being entirely airtight. The stopper or bung itself may not be seated well.
 
-####Troubleshooting Checklist
+#### Troubleshooting Checklist
 
 Once you have confirmed that you have a fermentation problem, you can begin working through several possibilities.
 

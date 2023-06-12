@@ -3,17 +3,17 @@ revision_id: a3ffce4a-db2a-11e6-9f1b-127adb580076
 revision_date: 1484488686
 ---
 
-##Herbs and Spices
+## Herbs and Spices
 
 A vast array of flavorful herb and spice adjuncts have been used in mead making. Herbs are typically the leaves of plants and can be used fresh or dried. Spices can come from any part of a plant *except* the leaves: bark, seeds, roots, etc. Spices are typically dried or cured in some way.
 
 Some plants provide both an herb *and* a spice because we use their leaves and some other part to flavor food. When this is the case, the same plant may have two different names used according to the part being referenced. One example is cilantro/coriander; Cilantro refers to the leaves, coriander refers to the seeds.
 
-###Metheglin
+### Metheglin
 
 A mead made with herbs and/or spices is called a "metheglin." This is one of the major categories into which most meads fall. It is a category both broad and deep and includes disparate styles such as capsicumel and tej.
  
-###Sourcing
+### Sourcing
 
 As with all ingredients, quality and freshness matter. While there is nothing wrong with using grocery store spices, you can get better results procuring spices through a specialty shop. A great spice store will have no problem allowing the customer to smell sample everything in the shop (within reason). 
 
@@ -21,7 +21,7 @@ Whenever possible, try to purchase herbs and spices as close to the time you pla
 
 Lastly, buy whole spices when possible. Whole spices retain aroma and flavor better than those that have been processed.
  
-###Storage and Handling
+### Storage and Handling
 
 Store your spices and dried herbs in a cool, dark, and airtight environment, and in the most complete form you can. 
 
@@ -29,7 +29,7 @@ Fresh herbs can spoil quickly. If you can't use them quickly, take steps to pres
  
 Process (cut, slice, chop, grind, grate, crush, etc) your herbs and spices as close to adding them as you can. This will retain as much of the volatile flavor compounds and oils that hold the flavors which are the whole point of adding herbs and spices. When cutting or chopping herbs, use a sharp knife or scissors to avoid bruising and tearing.
 
-##Common Metheglin Spices
+## Common Metheglin Spices
 
 ### Herbs
 

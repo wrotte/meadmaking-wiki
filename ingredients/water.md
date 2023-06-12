@@ -25,7 +25,7 @@ This will be the same price, or cheaper, than distilled water and comes without 
 
 A lot of small towns and cities have pretty good tap water. If it tastes good to you and has a good quality report, there's no reason you can't use it. Remember that the final judges are your taste buds.
 
-####The Consumer Confidence Report (CCR)
+#### The Consumer Confidence Report (CCR)
 
 This is an annual report your water supplier is legally mandated to [supply to their customers by July 1st of each year.](https://ofmpub.epa.gov/apex/safewater/f?p=136:102::::::) You can generally find a copy of it on your water suppliers website. If not, you can request it from them directly. The CCR is the easiest way to determine if your water is fit to use (at least on paper) for mead making.
 

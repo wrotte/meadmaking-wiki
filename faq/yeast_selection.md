@@ -41,6 +41,6 @@ Most local homebrew shops carry common wine and beer yeasts. Online shops have a
 
 Be careful when buying from large retailers like Amazon, especially when purchasing liquid yeast - it may have been stored improperly or sat around long past its best-by date. 
 
-###Read More
+### Read More
 
 Detailed information on yeast types and selection may be found on the [Ingredients/Yeast](/ingredients/yeast) page of this wiki.

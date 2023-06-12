@@ -3,13 +3,13 @@ revision_id: f7a499d8-30ff-11ec-b0c1-0218b8c19bb5
 revision_date: 1634663647
 ---
 
-##How much headspace is too much headspace? What do I do about it?
+## How much headspace is too much headspace? What do I do about it?
 
-###Active Fermentation
+### Active Fermentation
 
 If a mead is actively fermenting, the answer is that there isn't a problem of "too much" headspace. During fermentation, you're more likely to suffer from [too little.](/faq/overflow)
 
-###Post-Fermentation/Aging
+### Post-Fermentation/Aging
 
 Once a mead finishes fermentation, however (the specific gravity is near or below 1.000, or it stabilizes and does not change for several days), you will want to minimize headspace or control the gas inside the headspace.
 

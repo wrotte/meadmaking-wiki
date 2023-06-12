@@ -3,13 +3,13 @@ revision_id: 94d1f0d6-2578-11ec-84e3-02e229623081
 revision_date: 1633396036
 ---
 
-##Yeast Rehydration
+## Yeast Rehydration
 
 &gt;Dry yeast should be re-hydrated in water before pitching. Often the concentration of sugars in wort is high enough that the yeast can not draw enough water across the cell membranes to restart their metabolism. 
 
 \- [John Palmer, How To Brew](http://howtobrew.com/book/section-1/yeast/preparing-yeast-and-yeast-starters)
 
-###Rehydration
+### Rehydration
 
 According to yeast and nutrient manufacturer Lallemand, rehydration is one of the most important steps in ensuring a healthy fermentation.  Rehydrating your yeast properly results in a larger, healthier population than pitching them directly into the must.
 
@@ -19,17 +19,17 @@ Different strains may require different rehydration temperatures, so check the m
 
 Leaving your yeast to rehydrate for longer than 15-30 minutes without attemperating or pitching is not beneficial - it will in fact begin to harm them.
 
-###Rehydration Nutrients
+### Rehydration Nutrients
 
 Specially formulated nutrients can be added to the rehydration water. Absorbing the nutrient-rich water starts yeast on the right foot. Some nutrients are specifically unsuitable for this task, however. Diammonium Phosphate (DAP), for instance, can chemically burn the yeast at this stage. GoFerm is the most frequently mentioned rehydration nutrient on /r/mead.
 
 Using inappropriate nutrients (anything not GoFerm) can be actively harmful as it is difficult to accurately measure very small amounts.  Additionally, nutrition/nitrogen/sugar is not actively needed, water is.  Yeast has imperfect membranes during rehydration and can absorb too much of a chemical which kills them.
 
-###Attemperation
+### Attemperation
 
 Adding some of your must to your rehydrated yeast (after they have been rehydrated for 15-30 mins) is a good practice. This will help to acclimate the still-warm yeast to the cool must and avoid cold shock.  If the difference of the temperatures of the yeast and the must are more than 10° F five minutes after initial attemperation, the process should be repeated.
 
-###Process: Rehydration with Go-Ferm, Attemperation, and Pitching
+### Process: Rehydration with Go-Ferm, Attemperation, and Pitching
 
 1. Sanitize your equipment.
 

@@ -3,15 +3,15 @@ revision_id: 8168cf06-4978-11e6-ace2-0e5c1343d1ab
 revision_date: 1468469259
 ---
 
-##Honey
+## Honey
 
 This is the definitive ingredient in mead making. Without honey, there is no mead.
 
 The properties of honey are near-miraculous. In spite of being 80% sugar, it retards the growth and spread of bacteria through a combination of its physical properties as a colloid, an acidic pH balancing act, and chemical composition. It's effective for treating small wounds to prevent infection - both as a barrier against ambient air and as a natural source of small amounts of hydrogen peroxide. As though that weren't enough, when diluted and combined with a strong colony of yeast, it turns into a tasty alcoholic beverage!
 
-###Types
+### Types
 
-####Source
+#### Source
 
 Wildflower honey is produced by bees that gather nectar from multiple unknown or unspecified sources. This is usually the cheapest honey. It's often blended by large packagers to make a consistent product that tastes good in most applications. It's just fine to use this honey in mead, particularly as a base honey for melomels or metheglins. It does not always stand out for traditional meads. That said, small-time beekeepers can yield some of the most interesting wildflower honey due to their local biomes.
 
@@ -21,7 +21,7 @@ There are many sources on the Internet about the flavors and suitability of mono
 
 Woodland honey is available in some places. Caveat emptor - this honey is essentially wildflower (and can be labeled as such), but may be made from larger amounts of sap and aphid honeydew, which can lead to a stronger flavored honey but unwanted piney or bitter flavors in a finished mead.
 
-####Processing &amp; Quality
+#### Processing &amp; Quality
 
 There is some ambiguity in honey labeling. Read the fine print when selecting honey. Terms like "natural" and "pure" don't necessarily mean anything. "Raw" is defined by the National Honey Board as "honey as it exists in the beehive or as obtained by extraction, settling or straining without adding heat," but this definition does not have the weight of law behind it. Settling or straining removes bee parts, wax, and debris, which is unpalatable to the average consumer.
 
@@ -31,7 +31,7 @@ If there is a choice, look for honey marked "raw" or some variation of "minimall
 
 Another concern is the geographical source of the honey. There have been recent accusations that honey producers in developing nations mix high fructose corn syrup with their honey in order to bolster volume. This can be very difficult to detect. Look for honey produced locally if possible, or marked with a certification comparable to TrueSource. This might require a little digging, but the results are worth the effort.
 
-###Where do I find good quality honey?
+### Where do I find good quality honey?
 
 *Online Vendors*
 
@@ -55,13 +55,13 @@ Costco honey is TrueSource Certified.
 
 Dutch Gold Honey and Gunter's Honey are both widely used by meadmakers, trusted, and commonly available online or in supermarkets.
 
-###Tips
+### Tips
 
 Lighter honey tends to be more delicately flavored; darker, bolder. But this is not always the case.
 
 When deciding whether to use such honey for mead, simply smell and taste it. Getting past the sugar can be difficult, but with experience and practice, one learns to distinguish favorable and unfavorable characteristics when considering a honey for mead. To help get past the sweetness and better reveal underlying flavors, try diluting it with 4 parts water to one part honey.
 
-###Additional Reading
+### Additional Reading
 
 Ken Schramm's *The Compleat Meadmaker* thoroughly examines honey.
 

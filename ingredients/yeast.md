@@ -3,11 +3,11 @@ revision_id: 29b6bac2-bb80-11ec-94f5-4abdeeb6c5fb
 revision_date: 1649891967
 ---
 
-##Yeast
+## Yeast
 
 Yeast selection is a major part of meadmaking. Different strains have different fermentation requirements and produce different flavors (such as esters or thiols), which in turn results in different characteristics in mead.
 
-###Considerations
+### Considerations
 
 Check the manufacturer's website for accurate basic information about a yeast strain. Forums and website can be useful as well, but remember that sites driven by user content produce strictly anecdotal information.
 
@@ -28,7 +28,7 @@ A note about killer yeasts: many wine yeasts are killer strains.  They create pr
 
 ### Yeast Types
 
-####Wine Yeasts
+#### Wine Yeasts
 
 Mead made with wine yeast is meant to age. Higher alcohol mead, especially, can take months or years to reach its peak.  Often these have many flavor interactions that can influence the final product.  They are also common and abundant in most homebrew stores for many popular strains for cheap.
 
@@ -134,7 +134,7 @@ All of that said, there's elasticity with dry yeast because of how a yeast colon
 
 While it makes a difference, it isn't *that* big of a difference. Doubling or halving pitch rate doesn't change the amount of time it spends in the exponential growth phase by a correspondingly similar amount.
 
-###Resources
+### Resources
 
 These links represent some potentially helpful sources available
 

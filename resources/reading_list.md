@@ -3,7 +3,7 @@ revision_id: 53aaabb4-24ac-11ed-ad59-36210e0600fd
 revision_date: 1661455807
 ---
 
-###Hard Copy and E-Books
+### Hard Copy and E-Books
 
 © | Title / Link | Author | Notes
 ---|---|----|----
@@ -14,7 +14,7 @@ revision_date: 1661455807
 
 © = Most recent copyright date.
 
-###Online Reading and Resources
+### Online Reading and Resources
 
 Updated | Title / Link | Author | Notes
 ---|---|----|----

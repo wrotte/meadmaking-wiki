@@ -3,13 +3,13 @@ revision_id: 1f969505-4a42-11eb-a589-0e44d4455a19
 revision_date: 1609293342
 ---
 
-##Bochet
+## Bochet
 
 For caramelized honey in all its forms. Even if other adjuncts are present and strong, anything with the iconic toffee, marshmallow, or bitter chocolate notes belongs here. 
 
 ***
 
-###Bochet #1
+### Bochet #1
 
 (by /u/stormbeforedawn)
 
@@ -66,7 +66,7 @@ Ice bath may help cool times on honey. Mixing boiling honey and water will risk 
 
 ***
 
-###Bible Black
+### Bible Black
 
 Banana French Toast Bochet
 
@@ -124,7 +124,7 @@ Med Toast French Oak|1.76oz (50g)|Soaked in bourbon for a month
 
 **Tasting Notes:** Dry, fruity, and smokey. Reeks of banana. Low alcohol burn if fermented cool. Tastes primarily of banana and caramel with spices sitting in the background.
 
-###Pomegranate Bochet
+### Pomegranate Bochet
 
 (by /u/stormbeforedawn)
 
@@ -188,7 +188,7 @@ Ice bath may help cool times on honey. Mixing boiling honey and water will risk 
 
 ***
 
-###Boysenberry Bochet
+### Boysenberry Bochet
 
 (by /u/stormbeforedawn)
 

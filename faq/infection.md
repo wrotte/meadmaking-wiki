@@ -35,7 +35,7 @@ It's *possible* that your infected mead will turn out drinkable. It isn't incred
 
 * Long slimy-looking tendrils in the mead.
 
-###Resources
+### Resources
 
 https://homebrewsupply.com/learn/is-my-batch-infected.html 
 
@@ -43,7 +43,7 @@ http://www.milkthefunk.com/wiki/Mold
 
 ---
 
-###Example Pictures
+### Example Pictures
 
 Here are some pictures of mead that were posted by /r/mead users. **None of these meads are infected.**
 

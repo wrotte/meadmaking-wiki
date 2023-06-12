@@ -5,7 +5,7 @@ revision_date: 1608490865
 
 For user mead recipes that are Apple forward. A blueberry cyser could be here or melomel, whichever was more prominent in flavor or aroma.
 
-###Champagne Cyser
+### Champagne Cyser
 
 (by /u/cmc589)
 

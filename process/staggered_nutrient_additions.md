@@ -3,7 +3,7 @@ revision_id: 97d19688-3108-11ec-8d90-ea7fce43869d
 revision_date: 1634667351
 ---
 
-##Staggered Nutrient Additions (SNA)
+## Staggered Nutrient Additions (SNA)
 
 This term means exactly what it sounds like. It means breaking up nutrient additives into smaller additions and dosing your must over a period of time.
 
@@ -11,11 +11,11 @@ This concept has also been referred to as Nutrient Addition Schedule (NAS).
 
 This is not a required aspect of mead making, but rather an improvement designed to make better mead faster.
 
-###Background
+### Background
 
 Mead must is, of course, so [nutrient deficient](/ingredients/nutrients) that mead makers have to supplement the must with a variety of substances, particularly yeast assimilable nitrogen (YAN), to give the yeast healthy enough conditions to ferment honey without producing off flavors. Yeast, unfortunately, aren't so great at rationing their supplies and enter a "feeding frenzy" in the sudden presence of abundance, causing the speed of [fermentation](/r/mead/wiki/process/fermentation) to increase. As fermentation is an exothermic process, this causes the temperature of the must to temporarily spike. The end result of a warmer ferment is an increase in the production of fusel alcohols which are responsible for the "hot," "jet fuel," or "young" taste in a new wine. Part of the aging process is to allow these to break down over time.
 
-###The Idea
+### The Idea
 
 What happens if you give the fermenting yeast a smaller dose? The spike in activity is smaller, the temperature will remain lower, and less fusel alcohols will be produced leading to a faster turnaround time. The yeast will also make *better* use of their resources. Instead of consuming the nutrients as quickly as possible, they have access to smaller amounts over the course of several days.
 
@@ -23,7 +23,7 @@ The rate of fermentation is smoothed out. The one large spike in speed and tempe
 
 [This graph](http://i.imgur.com/nZXHmll.png) is a crude representation of this effect. It is strictly illustrative, not based upon real world data nor real world scale.
 
-###Determine a Schedule
+### Determine a Schedule
 
 *See our wiki article on current best-practice [nutrient schedules](/process/nutrient_schedules).  Context below reference the TBE schedule.*
 
@@ -37,7 +37,7 @@ As long as you work within the limitations of your nutrient sources, the number 
 
 In the example below, purely organic nitrogen sources are used first. Sources containing inorganic nitrogen are mixed together and added in later additions.
 
-###Example
+### Example
 
 See [Nutrient Schedules](/process/nutrient_schedules) for several additional specific schedules.
 
@@ -62,7 +62,7 @@ Nutrients:
 
 † This physically adds less than 20 ppm, but Fermaid O is worth 3-4x its true weight in nitrogen content for the purpose of calculating YAN. See [Advanced Nutrients in Meadmaking](/resources/advanced_nutrients) for more information.
 
-###Resources: 
+### Resources: 
 
 [Advanced Nutrients in Meadmaking](https://docs.google.com/document/d/11pW-dC91OupCYKX-zld73ckg9ximXwxbmpLFOqv6JEk/edit#!) - a white paper by /u/Balathustrius
 

@@ -14,7 +14,7 @@ The purpose of this wiki is to cover the basics of making mead. More thorough in
 This platform should not be used to reproduce copyrighted works or data.
 
 -----
-##Help Us!
+## Help Us!
 
 **Please refer to the [Editing Guidelines](/wiki_editing_guidelines) before editing this wiki. If you abuse editing privileges, you will lose them.**
 
@@ -95,7 +95,7 @@ ____
 
 -----
 
-###Process
+### Process
 
 * [Process Summary](/process/process_summary)
 
@@ -159,7 +159,7 @@ ____
 
 -----
 
-###Recipes
+### Recipes
 
 * [Starter Recipes](/recipes)
 

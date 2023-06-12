@@ -15,7 +15,7 @@ A place for mead makers and drinkers to talk about their passion.
 
 ---
 
-###[Discord - The Mead Hall](https://discord.gg/x6YHsWp) 
+### [Discord - The Mead Hall](https://discord.gg/x6YHsWp) 
 
 Visit our friends over on Discord!
 

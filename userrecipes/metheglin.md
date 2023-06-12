@@ -3,12 +3,12 @@ revision_id: 1d3dcd87-4303-11eb-8a83-0e1e675dc1f1
 revision_date: 1608496622
 ---
 
-##Metheglin
+## Metheglin
 
 For herb and spice forward meads. Nothing's wrong with a bit of fruit in here to supplement some strong anise. Floral and tea based meads go here too. 
 
 ***
-###Meadow Queen's Delight 
+### Meadow Queen's Delight 
 
 Meadowfoam with Queen-Anne's Lace, vanilla, cardamom, cinnamon and nutmeg
 
@@ -71,7 +71,7 @@ This recipe is intended to be served dry, but backsweetening is an option. As al
 
 ***
 
-###Chai Cyser
+### Chai Cyser
 
 (by /u/rowsdower44)
 
@@ -121,7 +121,7 @@ You may also add acid blend in order to balance out the final product.
 
 ***
 
-###Rhodomel 2
+### Rhodomel 2
 
 (by /u/stormbeforedawn)
 

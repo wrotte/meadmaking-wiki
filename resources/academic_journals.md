@@ -6,7 +6,7 @@ revision_date: 1575486438
 TODO: formatting 
 
 
-##Academic Journals 
+## Academic Journals 
 
 The purpose of this page is to collect a variety of journals and research work that is relevant to the detailed understanding of yeast health, nitrogen uptake, enzyme effects, and fermentation both in general and in specific to honey or fruit. Please only add journals that do not require log in credentials and to your best knowledge are not pirated in any way. Also, please include a brief description of the content covered and format additions in the same was as the others to keep legibility of the wiki page.  
 

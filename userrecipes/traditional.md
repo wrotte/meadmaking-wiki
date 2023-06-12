@@ -3,13 +3,13 @@ revision_id: 8c0c36a9-42f4-11eb-ab96-0eff1c837a2d
 revision_date: 1608490365
 ---
 
-##Traditional
+## Traditional
 
 For user mead recipes that are honey forward. If there is oak or other minor adjuncts, they should support the honey, and not be immediately the dominate flavor.
 
 
 
-###Dwojniak Traditional
+### Dwojniak Traditional
 
 by /u/stormbeforedawn
 

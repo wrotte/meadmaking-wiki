@@ -3,12 +3,12 @@ revision_id: 853cdfba-d57b-11ec-a73d-ee516729e8e0
 revision_date: 1652748703
 ---
 
-##Melomel
+## Melomel
 
 This is for anything fruit forward. 
 
 
-###Viking Blod
+### Viking Blod
 
 by /u/stormbeforedawn
 
@@ -84,7 +84,7 @@ Notes: OG is theoretical due to staggered sugar. Target ABV is 21%. Consider spi
 
 ***
 
-###Cherry Superfruit
+### Cherry Superfruit
 
 by /u/stormbeforedawn
 
@@ -143,7 +143,7 @@ This is one of my older Dwojniak style meads. Some of the others, like Viking Bl
 
 ***
 
-###Wedding Wine #3
+### Wedding Wine #3
 
 (by /u/stormbeforedawn)
 
@@ -219,7 +219,7 @@ Staggered sugar meads are tough to tackle, but the port like flavors are well wo
 
 
 
-###The Viking Midget
+### The Viking Midget
 
 (by /u/shininghero)  
 
@@ -273,7 +273,7 @@ Most of the redness seems to come from the skin of the cherries.  This could be 
 
 ***
 
-###Pineapple Grapefruit 3
+### Pineapple Grapefruit 3
 
 (by /u/stormbeforedawn)
 
@@ -322,7 +322,7 @@ Also can be done as a refreshing hydromel by reducing OG to ~1.050. Still use 11
 
 ***
 
-###Triple Berry Crusher V4
+### Triple Berry Crusher V4
 
 (by /u/stormbeforedawn)  
 
@@ -377,7 +377,7 @@ This is a basic, quick-and-dirty recipe that is ready for easy drinking hotter s
 
 ***
 
-###Mango Peppercorn
+### Mango Peppercorn
 
 (by /u/turkeychicken)
 
@@ -442,7 +442,7 @@ The idea behind this was to try making something similar to B Nektar's NecroMang
 
 ***
 
-###Blackberry Mead 2.0 
+### Blackberry Mead 2.0 
 
 (by /u/Tin_Can115)
 
@@ -499,7 +499,7 @@ This is super nice chilled, over ice even and is a refreshing drink. At 3 months
 
 ***
 
-###Mango Habanero Crusher
+### Mango Habanero Crusher
 
 (by /u/stormbeforedawn)  
 
@@ -558,7 +558,7 @@ This is a basic, quick-and-dirty recipe that is ready for easy drinking hotter s
 
 ***
 
-###Orange Cranberry V3
+### Orange Cranberry V3
 
 (by /u/stormbeforedawn)  
 

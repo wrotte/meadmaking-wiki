@@ -3,14 +3,14 @@ revision_id: 8c199a56-8cf8-11ec-be10-9a912f1121d7
 revision_date: 1644775967
 ---
 
-##Braggot
+## Braggot
 
 A blend of beer and mead, you should be able to taste both honey and malt or hops, or all three. Usually carbonated.
 
 ***
 
 
-###Elderflower Braggot
+### Elderflower Braggot
 
 (by /u/stormbeforedawn)
 
@@ -72,7 +72,7 @@ Lallemand Windsor | 10 g  | [Rehydrate in the Go Ferm using 200 ml water at 105 
 ***
 
 
-###Hefeweizen Mark 2
+### Hefeweizen Mark 2
 
 (by /u/stormbeforedawn)
 

@@ -42,9 +42,9 @@ Avoid wine bottles that had screw-off caps. They weren't made to withstand the p
 
 You should also avoid colored bottles purchased from a craft store. The coloring is often painted on the inside and can flake off over time.
 
-###Bottle Closures
+### Bottle Closures
 
-####Natural and Synthetic Corks
+#### Natural and Synthetic Corks
 
 Natural cork is the classic closure for wines of all types. It's a renewable resource consisting of dead bark removed from a type of oak trees without killing it. The cork harvesting process is [*fascinating*](https://www.youtube.com/watch?v=fY90yzeSfU8) to watch and surely encourages everyone who does so to recycle their used corks. 
 
@@ -92,7 +92,7 @@ Never try to cork a bottle that isn't meant to be corked. Examples of bottles yo
 
 Never try to use craft corks or "cork stoppers."
 
-####Crown Caps
+#### Crown Caps
 
 These are far simpler to use than corks, and can last almost indefinitely. They consist of a metal body with a plastic insert on the interior or bottom which provides the airtight seal against the glass bottle. Some have features like oxygen-absorbing linings that reduce the amount of oxygen in contact with bottle contents.
 
@@ -104,7 +104,7 @@ There are several popular models of capper including two that use a handheld dou
 
 Don't try to use a crown caps on a twist-off bottle. It may appear to work, but the seal will be suspect and the glass is prone to shattering. You could find yourself with a slow leak or plain old flat mead in short order. It's also possible that the bottle rim will shatter during crimping.
 
-####EZ Caps, Misc.
+#### EZ Caps, Misc.
 
 There are other closures out there. One example is EZ Caps.
 
@@ -114,9 +114,9 @@ These bottles can hold pressure but their rating can vary quite a lot.  Use reli
 
 Gaskets on these bottles can be replaced and silicone ones are available.  They are less prone to wearing out like rubbers ones, however, are more oxygen permeable.  Exact numbers will vary by specific type but a good key fact is silicone is often higher in oxygen permeability than other things like rubber.
 
-###Bottling Process
+### Bottling Process
 
-####Equipment:
+#### Equipment:
 
 * Sanitizer
 
@@ -136,7 +136,7 @@ Gaskets on these bottles can be replaced and silicone ones are available.  They 
 
 * Optional: Bottle Rinser/Sanitizer tool.
 
-####Process:
+#### Process:
 
 1. Sanitize your equipment, including bottles and closures. (Possible exception - there's debate about whether to sanitize caps with oxygen absorbing linings.)
 

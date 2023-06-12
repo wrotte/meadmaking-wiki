@@ -3,7 +3,7 @@ revision_id: 8ff9d1ee-f670-11ed-a17a-aa9a177e503b
 revision_date: 1684519883
 ---
 
-##Stabilization
+## Stabilization
 
 Mead is stabilized for several reasons. A stable mead will not restart fermentation. This allows it to be safely packaged and to maintain flavor consistency. This also allows the meadmaker to [back sweeten](/process/back_sweeten) the mead if desired. Lastly, stabilized mead is more resistant to degradation and infection.
 
@@ -13,7 +13,7 @@ Stabilization may happen naturally [\(see below\)](/process/stabilization#via_ye
 
 Always confirm that your mead is stable before storing in sealed vessels or packaging. Confirm this by taking gravity readings after back sweetening and a week or so afterwards.
 
-###Via Chemical Additives
+### Via Chemical Additives
 
 There are two chemical additives widely used together to stabilize mead: potassium metabisulfite and potassium sorbate. In summary, potassium metabisulfite (k-meta) removes oxygen, resulting in a severely lower yeast population that can reestablish fermentation in time; potassium sorbate (k-sorb) effectively sterilizes any remaining yeast so they cannot reproduce. Together they are very effective at preventing further fermentation, but probably not effective at completely stopping a healthy fermentation. 
 
@@ -113,7 +113,7 @@ Weight to volume testing conducted by /u/balathustrius suggest that potassium so
 
 When physically adding potassium sorbate to mead, be aware that it does not easily dissolve. It's easiest to dissolve it in a small sample before adding it back to the mead as described for potassium metabisulfite, above. It will not easily dissolve when added to the bottom of an empty carboy and mead is racked on top of it. The circulation is not necessarily vigorous enough.
 
-###Via Yeast Alcohol Tolerance 
+### Via Yeast Alcohol Tolerance 
 
 With careful selection of yeast strain, careful dosage of nutrient additives you can cause a mead to ferment up to the yeast's natural alcohol tolerance and halt with some residual sugars, or add small additions until the yeast is no longer able to continue to ferment and ends sweet. This can be several points higher or lower than the value stated by the manufacturer, but is repeatable if you keep your process, specifically yeast strain, sugar load, pH and target final gravity, the same.  This method *assumes* that you are trying to produce a medium-sweet to sweet mead, and is not reliable in dry meads until very high ABVs.
 
@@ -142,7 +142,7 @@ If you use ABV to halt a mead and do not dose with stabilizers or another method
 
 * If you notice bottle carbonation, store remaining bottles in the refrigerator and drink up.
 
-###Via Sterile Filtration
+### Via Sterile Filtration
 
 This is both the simplest and most complicated solution. It's simple in concept: sterile filtration is the removal of microbes by merely filtering them out of the mead! It's complicated because you need more relatively expensive equipment: pumps, filter housing, filter cartridges. Lastly, it's probably the most *reliable* method. It's widely used by the commercial wine industry, but is still within the price range of serious home meadmakers willing to spend a few hundred dollars on it.
 
@@ -150,7 +150,7 @@ Sterile filtration is done by pumping the mead from one vessel through a filter 
 
 The process for filtration is going to differ depending on the pumps and filters you use. As an example of what it entails, [this video](https://www.youtube.com/watch?time_continue=666&amp;v=sJcsoHPi0TM) is a demonstration of the Buon Vino Mini Jet Filter. I reiterate that there are a lot of options and that we're just using this as an example.
 
-###Via Pasteurization
+### Via Pasteurization
 
 Pasteurization is a common stabilization method generally used to result in sweet, carbonated product. It can also be used when other methods are not accessible or desired for still mead. Pasteurizing inherently has some risks. You can have either incomplete pasteurization, you can boil the mead and over pressurize bottles, or heating can result in over pressurized bottles. Boiling can occur as low as 180F at high ABVs, and as high as 190F at low ABV. Heating from 60F to 145F increases bottle pressure by 16%. Important things to keep in mind while pasteurizing this way is that it is very important that any sugar distribution and pressure in the bottles is very uniform, and that bottles should be secured with crown caps or other closures that can hold pressure. Do not pasteurize bottles that had priming sugar or similar added separately to each. Typically when aiming for carbonation, a control bottle in plastic is used. When they are carbonated and firm you are ready to pasteurize, and the plastic bottle can be used as your probed bottle for your mead temperature.
 
@@ -166,7 +166,7 @@ Safety glasses, long sleeves and pants are a good idea. More protective clothing
 
 Remove bottles and allow them to cool. Store in a safe place in case pasteurization failed. Check carbonation on a bottle in a few more days to ensure you don't have a crate of time bombs.
 
-###Resources
+### Resources
 
 [Winemaker's Academy: Using Potassium Metabisulfite to Make Wine](http://winemakersacademy.com/potassium-metabisulfite-wine/)
 

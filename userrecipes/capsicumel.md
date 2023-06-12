@@ -3,13 +3,13 @@ revision_id: 4d1ab9e5-4301-11eb-a466-0ec84dbf20cf
 revision_date: 1608495843
 ---
 
-##Capsicumel
+## Capsicumel
 
 Anything goes so long as it's got some heat. From jalapenos to superhots.
 
 ***
 
-###Reaper 2
+### Reaper 2
 
 (by /u/stormbeforedawn)
 
@@ -60,7 +60,7 @@ For hilarity, consider food dyes like butterfly pea blossom or similar. Naturall
 
 ***
 
-###Mango Habanero 4
+### Mango Habanero 4
 
 (by /u/stormbeforedawn)
 

@@ -3,11 +3,11 @@ revision_id: 83e14cac-41aa-11e6-ba85-0efca524b649
 revision_date: 1467611129
 ---
 
-##Should I use glass or plastic?
+## Should I use glass or plastic?
 
 This is an old debate. Each have advantages that will call to you depending upon your process and circumstances. Consider your needs when you choose between the two. Lots of serious mead makers use both.
 
-###Advantages of Plastic
+### Advantages of Plastic
 
 Plastic carboys don't easily break. If you drop it while full, it might burst along the seam, but usually they hold up. If it *does* break, it doesn't send shards of glass flying, nor are there little pieces of glass in the five sticky heartbreaking gallons of mead that you're trying to mop up.
 
@@ -17,7 +17,7 @@ Adjuncts, proteins, and sugars don't stick as easily to the inside because it's 
 
 PET plastic carboys are slightly cheaper than glass carboys.
 
-###Advantages of Glass
+### Advantages of Glass
 
 Glass carboys do not scratch as easily. This means that they be cleaned with a brush when adjuncts and proteins stick to the inside. This also means that it's harder to create places for infections to hide from sanitizer.
 

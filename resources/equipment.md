@@ -7,7 +7,7 @@ revision_date: 1637598823
 
 A lot of equipment is personal preference. Read through the list and feel free to ignore anything that doesn't fit your process. This list is more exhaustive than necessary.
 
-###Sanitation Equipment
+### Sanitation Equipment
 
 Read about the process of sanitation [here.](/process/sanitation)
 
@@ -17,7 +17,7 @@ Read about the process of sanitation [here.](/process/sanitation)
 
 * Dirty Bucket - 1-5 gallon bucket for gear that needs to be washed. Alternatively, have a sink nearby.
 
-###Fermentation Vessels 
+### Fermentation Vessels 
 
 You can read more about the process of fermentation [here.](/process/fermentation)
 
@@ -40,7 +40,7 @@ You can read more about the process of fermentation [here.](/process/fermentatio
 
 
 
-###Bulk Aging Vessels
+### Bulk Aging Vessels
 
 You probably want to decide between [glass and plastic.](/faq/glass_vs_plastic)
 
@@ -50,7 +50,7 @@ You probably want to decide between [glass and plastic.](/faq/glass_vs_plastic)
 
  * Remember that you need more than one if you intend to make mead more than once every few months.
 
-###Fermentation and Aging Alternatives
+### Fermentation and Aging Alternatives
 
 * Food Safe Buckets
 

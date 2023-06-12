@@ -3,25 +3,25 @@ revision_id: 3faa569a-f8b7-11eb-b40e-d657928297a4
 revision_date: 1628475149
 ---
 
-##Are there alternative nutrient sources?
+## Are there alternative nutrient sources?
 
 Commercial and home mead makers use staggered nutrient additions to support yeast health and make mead that is drinkable in a shorter amount of time.  If you do not want to add nutrients to your mead, it may take longer to age.
 
 For some sources, it may not be easy to determine the nitrogen content of the additive substance. In such cases, you can send a sample solution to a lab for analysis or - much more easily - rely upon trial and error by adding more of your chosen nitrogen source if fermentation becomes too sluggish or threatens to stop early.
 
-###Dead Yeast
+### Dead Yeast
 
 Dead yeast cells can themselves be "cannibalized" by a growing yeast colony. There are several additives available in stores. Yeast Hulls or Ghosts contain only the hulls of dead yeast. Yeast Extract contains whole and partial dead yeast cells, and is the richer nutrient. You can also make your own yeast extract slurry by boiling cheap bread yeast.  See the section on [boiled bread yeast as Fermaid O substitute](/ingredients/nutrients#using_boiled_bread_yeast_.28bby.29_as_a_fermaid_o_substitude) under nutrition for details and how to make it.
 
-###Fruit
+### Fruit
 
 Fruit added to primary fermentation will provide yeast with nutrients that they need.  The amount of yeast assimilable nitrogen varies with the fruit (from field to field or even tree to tree!) and there is not any convenient way for home mead makers to measure this.  Adding a smaller dose of nutrients than you would use in a traditional mead is recommended, although it is possible to ferment a mead with just fruit (a lot of it), honey, water, and yeast. Many ancient mead recipes included fruit, possibly because honey and water did not ferment well by itself.
 
-###Organic Additive Products
+### Organic Additive Products
 
 Some companies produce yeast nutrient additives that are specifically designed and marketed as organic and do not contain synthetic chemicals. Look for a trusted organic certification. The use of most of these products in mead is not well documented, with the exception of Fermaid O.
 
-###Raisins
+### Raisins
 
 These were a common ingredient for older mead recipes (which also advocated for months-long fermentation and years-long aging), but are rarely advocated today. The amount is usually given as "a handful" or "about 25" for 1 gallon of mead. What follows is some math exploring just how much nitrogen content they add.
 

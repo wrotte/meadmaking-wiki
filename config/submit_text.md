@@ -3,7 +3,7 @@ revision_id: eaacc8aa-cbd5-11ed-988b-06ba4de1ec94
 revision_date: 1679835514
 ---
 
-##Questions
+## Questions
 
 The mead subreddit wiki (linked in top bar or via FAQ link) and [FAQ](/index#f.a.q.) are valuable resources.
 

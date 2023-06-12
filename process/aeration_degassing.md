@@ -30,6 +30,6 @@ When aging wine, you can speed up degassing with a vacuum degasser, which works 
 
 Do not ever shake your mead to degas. This will usually result in a messy rapid-degassing that causes lids to go flying, geysers, and sticky messes.
 
-###Note: Melomels and Additive-Heavy Meads
+### Note: Melomels and Additive-Heavy Meads
 
 Take special care when making a mead with fruit or other heavy/bulky additions - like flower petals or herbs - in the fermenter, this mass will form a layer on top of the mead called a cap, which allows even less CO2 escape the solution.  For such meads, it is necessary to break the cap, punch it down, and degas often. If you don't, the cap can be pushed out of the fermenter by the gasses building beneath, and the high concentration of CO2 will stress your yeast, causing off flavors.
