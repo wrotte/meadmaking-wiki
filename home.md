@@ -2,7 +2,7 @@
 title: Main Page
 description: The main page
 published: 1
-date: 2023-06-12T17:25:17.029Z
+date: 2023-06-12T18:07:32.780Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-12T14:46:37.284Z
@@ -52,15 +52,15 @@ ____
 
 * [Help! I have basic problems:](/faq/basic_problems)
 
- * I don't see bubbles in my airlock! 
+  * I don't see bubbles in my airlock! 
 
- * My mead isn't fermenting!
+  * My mead isn't fermenting!
 
- * Something looks wrong!
+  * Something looks wrong!
 
- * I think I ruined my mead!
+  * I think I ruined my mead!
 
- * It smells bad!
+  * It smells bad!
 
 * [Help! My mead is overflowing!](/faq/overflow)
 
