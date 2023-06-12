@@ -27,11 +27,11 @@ Unbalanced meads are going to be 'missing' something.  Newly finished meads are 
 
 ## Bench Trials
 
-Balancing is best done via [bench trials](https://www.reddit.com/r/mead/wiki/process/bench_trials).  This will allow you to test a change on a small sample, before committing changes to your entire batch.
+Balancing is best done via [bench trials](/process/bench_trials).  This will allow you to test a change on a small sample, before committing changes to your entire batch.
 
 ### Sweetening
 
-*Note: this assume your mead is a [stable mead](https://www.reddit.com/r/mead/wiki/process/stabilization)*
+*Note: this assume your mead is a [stable mead](/process/stabilization)*
 
 Honey is the usual sweetener for mead, but that's not strictly required.  Any form of sugar will work and includes table sugar, brown sugar, molasses, lactose, fruit, malt extract, etc.
 
@@ -39,7 +39,7 @@ Not all sugar sources have the same 'sweetness' perception per gram of sugar/poi
 
 All sugars are also not fermentable.  Lactose is the typical example that yeast do not ferment.  Some bacteria can, so all proper sanitary methods should be followed.  Molasses also contains some unfermentable sugars as well.
 
-Another article has [backsweetening](https://www.reddit.com/r/mead/wiki/process/back_sweeten) information.
+Another article has [backsweetening](/process/back_sweeten) information.
 
 ### Adding Acid
 

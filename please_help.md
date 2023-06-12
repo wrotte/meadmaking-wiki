@@ -28,15 +28,15 @@ Nothing currently flagged.
 
 #### Ingredients
 
-* [Nutrients](https://www.reddit.com/r/mead/wiki/ingredients/nutrients) - This still needs more content, organization. We should add a blurb about various specific nutrient additives and a link to the FAQ page about alternative nutrient sources.
+* [Nutrients](/ingredients/nutrients) - This still needs more content, organization. We should add a blurb about various specific nutrient additives and a link to the FAQ page about alternative nutrient sources.
 
 #### Process
 
-* [pH Adjustment](https://www.reddit.com/r/mead/wiki/process/ph_adjustment) Needs content.
+* [pH Adjustment](/process/ph_adjustment) Needs content.
 
 #### Resources
 
-* [Additional Reading](https://www.reddit.com/r/mead/wiki/resources/reading_list) Note: Please see the Talk page before updating.
+* [Additional Reading](/resources/reading_list) Note: Please see the Talk page before updating.
 
 ### Expand Sections
 
@@ -46,19 +46,19 @@ Nothing currently flagged.
 
 #### Water
 
-* [Noteworthy Substances and Properties](https://www.reddit.com/r/mead/wiki/ingredients/water#wiki_noteworthy_substances_and_properties)
+* [Noteworthy Substances and Properties](/ingredients/water#wiki_noteworthy_substances_and_properties)
 
 #### Aging
 
-* [Using Oak](https://www.reddit.com/r/mead/wiki/process/aging#wiki_using_oak)
+* [Using Oak](/process/aging#wiki_using_oak)
 
-* [Clarity](https://www.reddit.com/r/mead/wiki/process/aging#wiki_clarity)
+* [Clarity](/process/aging#wiki_clarity)
 
 ### Pages Flagged for Eventual Expansion
 
 #### Ingredients
 
-* [Fruit](/r/mead/wiki/ingredients/fruit) - Needs to be expanded a lot. See [Ingredients/Herbs and Spices.](https://www.reddit.com/r/mead/wiki/ingredients/herbs_and_spices)
+* [Fruit](/r/mead/wiki/ingredients/fruit) - Needs to be expanded a lot. See [Ingredients/Herbs and Spices.](/ingredients/herbs_and_spices)
 
 #### FAQ
 

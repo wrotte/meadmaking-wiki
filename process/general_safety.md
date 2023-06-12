@@ -9,7 +9,7 @@ This hobby isn't particularly dangerous but there are a few things to keep an ey
 
 ### Sanitary Practices
 
-This is preached endlessly for good reason.  It produces drinkable results without toxicity.  See our article on [sanitation](https://www.reddit.com/r/mead/wiki/process/sanitation) for more information.  Also see Microbes &amp; Infections below as well.
+This is preached endlessly for good reason.  It produces drinkable results without toxicity.  See our article on [sanitation](/process/sanitation) for more information.  Also see Microbes &amp; Infections below as well.
 
 ### Glass Equipment
 
@@ -27,7 +27,7 @@ Inspect it for damage between batches.  They can develop cracks, chips, or other
 
 Use a lifting adjunct.  There are products for these and some are better than others.  However, the single best and easy-to-obtain one is a milk crate.  It is durable, has handles, and will not break.  Carboy straps tear and carboy neck handles shear off necks.
 
-Do not use marbles.  Marbles have been recommended in homebrew for a long time as an easy way to bulk out space in a carboy and eliminate headspace.  It is not recommended for a few safety reasons.  The safety reason is it dramatically increases the weight of the fermentor.  Secondly, the act of dropping pounds of glass beads from high up to strike the bottom has a chance of cracking the glass at the bottom.  Be smart, plan ahead, and do not use potentially unsafe practices.  See our [bulk aging](https://www.reddit.com/r/mead/wiki/process/aging#wiki_bulk_aging) section for more about headspace mitigation.
+Do not use marbles.  Marbles have been recommended in homebrew for a long time as an easy way to bulk out space in a carboy and eliminate headspace.  It is not recommended for a few safety reasons.  The safety reason is it dramatically increases the weight of the fermentor.  Secondly, the act of dropping pounds of glass beads from high up to strike the bottom has a chance of cracking the glass at the bottom.  Be smart, plan ahead, and do not use potentially unsafe practices.  See our [bulk aging](/process/aging#wiki_bulk_aging) section for more about headspace mitigation.
 
 ### Plastic Equipment
 
@@ -65,7 +65,7 @@ The safest solution to this is to use a properly-rated vacuum chamber and can be
 
 ### Microbes &amp; Infections
 
-We have a page about [infections](https://www.reddit.com/r/mead/wiki/process/infection) already.  This is a safety-oriented section only.  Yeasts are safe to use and consume in small amounts (some may experience gastric disturbances howveer), especially commercially obtained ones.  A 'vinegary' taste is often not an infection.  Those new to brewing may underestimate how acidic something is naturally.  Compare to actual vinegar and consult [acid-tannin balance](https://www.reddit.com/r/mead/wiki/process/process_summary#wiki_acid_tannin_balance) for flavor improvement steps.
+We have a page about [infections](/process/infection) already.  This is a safety-oriented section only.  Yeasts are safe to use and consume in small amounts (some may experience gastric disturbances howveer), especially commercially obtained ones.  A 'vinegary' taste is often not an infection.  Those new to brewing may underestimate how acidic something is naturally.  Compare to actual vinegar and consult [acid-tannin balance](https://www.reddit.com/r/mead/wiki/process/process_summary#wiki_acid_tannin_balance) for flavor improvement steps.
 
 #### Mold
 
@@ -79,11 +79,11 @@ Botulism is prevent in mead by a pH 4.6 or below.  It is normal for mead to be b
 
 C. botulinum may infect honey that is too wet and allows the microbe to survive.  In the US, the FDA regulates the amount of moisture of a honey product before it can be sold and all sold honeys exceed this.  The notable exception is sometimes farmer's market folks will offer unsellable moist honey for free (or at a discount, feel free to haggle since they cannot legally sell it).
 
-Other bacteria may get into the brew and contaminate it, typically causing sourness.  It isn't necessarily dangerous but can have negative flavor impacts.  Additionally, bacteria may cause over attenuation of beer or braggots, thus bottle bombs.  See [below](https://www.reddit.com/r/mead/wiki/process/general_safety#wiki_bottle_bombs) for more info.
+Other bacteria may get into the brew and contaminate it, typically causing sourness.  It isn't necessarily dangerous but can have negative flavor impacts.  Additionally, bacteria may cause over attenuation of beer or braggots, thus bottle bombs.  See [below](/process/general_safety#wiki_bottle_bombs) for more info.
 
 #### Wild/Mixed Cultures
 
-It is possible to brew with cultures from other sources than commercial yeast.  These are safety risks associated depending on what the culture is and how it was obtained.  This should only be attempted if you know what you are doing and the risks involved.  More information is available on our [yeast](https://www.reddit.com/r/mead/wiki/ingredients/yeast) page, including short sections about non-commercial cultures.
+It is possible to brew with cultures from other sources than commercial yeast.  These are safety risks associated depending on what the culture is and how it was obtained.  This should only be attempted if you know what you are doing and the risks involved.  More information is available on our [yeast](/ingredients/yeast) page, including short sections about non-commercial cultures.
 
 ### Bottle Bombs
 
@@ -91,7 +91,7 @@ The term bottle bomb is for any bottled product actively fermenting that bursts 
 
 #### Preventing Bottle Bombs
 
-This is easy for still (non-carbonated) drinks.  Ferment dry, properly [stabilize](https://www.reddit.com/r/mead/wiki/process/stabilization) (there are several methods here), or use unfermentable sweeteners (such as erythritol).  Many options are available very easily to homebrewers.
+This is easy for still (non-carbonated) drinks.  Ferment dry, properly [stabilize](/process/stabilization) (there are several methods here), or use unfermentable sweeteners (such as erythritol).  Many options are available very easily to homebrewers.
 
 For bottle carbonated drinks, use appropriate amounts of priming sugar is key.  Using a priming sugar calculator, like [Northern Brewer's](https://www.brewersfriend.com/beer-priming-calculator/), will tell you the amount of sugar per CO2 volumes you need.  Exceeding or miscalculating can cause bottle bombs.  Use appropriate rated bottles.  The safest way to maintain sweetness in bottle carbonated drinks is use to non-fermentable sweeteners.
 

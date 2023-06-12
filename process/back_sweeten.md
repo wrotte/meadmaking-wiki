@@ -5,7 +5,7 @@ revision_date: 1616964481
 
 ## Back Sweetening Mead
 
-Mead is back sweetened to add sweetness after fermentation is complete. In order to back sweeten mead, it *must* first be [stabilized](https://www.reddit.com/r/mead/wiki/process/stabilization). Attempting to back sweeten a non-stable mead will not work in most cases.
+Mead is back sweetened to add sweetness after fermentation is complete. In order to back sweeten mead, it *must* first be [stabilized](/process/stabilization). Attempting to back sweeten a non-stable mead will not work in most cases.
 
 ###Benefits
 

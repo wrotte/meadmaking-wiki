@@ -73,7 +73,7 @@ ____
 
 * [I'm concerned about using chemicals in my mead](/r/mead/wiki/faq/chemicals)
 
-* [How do I clarify my mead?](https://www.reddit.com/r/mead/wiki/process/fining#wiki_help.21__how_do_i_clear_my_mead.3F)
+* [How do I clarify my mead?](/process/fining#wiki_help.21__how_do_i_clear_my_mead.3F)
 
 
 -----
@@ -109,7 +109,7 @@ ____
 
 * [Yeast Rehydration](/r/mead/wiki/process/rehydration)
 
-* [pH Adjustment](https://www.reddit.com/r/mead/wiki/process/ph_adjustment)
+* [pH Adjustment](/process/ph_adjustment)
 
 #### Fermentation
 

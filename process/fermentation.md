@@ -15,7 +15,7 @@ There are many variables that will affect how your yeast performs, and therefore
 
 **Oxygen** – Yeast use it during reproduction in the lag phase. A must can be [aerated](/r/mead/wiki/process/aeration_degassing) by vigorous stirring, by hand or with a drill and mix-stir attachment.  Many mead makers aerate their must until 1/3 of the sugar content has been metabolized.
 
-**Nutrients** – Honey has very little in the way of yeast nutrition. It is particularly nitrogen deficient. adding [yeast nutrient](https://www.reddit.com/r/mead/wiki/ingredients/nutrients) will help fermentation complete without off flavors. 
+**Nutrients** – Honey has very little in the way of yeast nutrition. It is particularly nitrogen deficient. adding [yeast nutrient](/ingredients/nutrients) will help fermentation complete without off flavors. 
 
 **Temperature** – Ferment in the lower 1/3 of the yeasts temperature tolerance listed by the yeasts manufacturer.  Fermenting too hot will produce off-flavors.  For most wine yeasts, 60-65 F is a good fermentation temperature. Remember that fermentation is exothermic - so the ambient temperature will be lower than the temperature in the fermenter.
 

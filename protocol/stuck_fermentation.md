@@ -5,7 +5,7 @@ revision_date: 1639425554
 
 ## Stuck or Sluggish Fermentations
 
-A stuck fermentation is one that has stopped before hitting the expected final gravity; in particular the specific gravity of the must has not changed in at least 48 hours.  Stuck fermentations are often proceeded by sluggish fermentations, which is when fermentation slows dramatically earlier than expected to a rate of less than 1.001 points per day.  If your fermentation never started, refer to this [section](https://www.reddit.com/r/mead/wiki/protocol/stuck_fermentation#wiki_fermentation_never_started)
+A stuck fermentation is one that has stopped before hitting the expected final gravity; in particular the specific gravity of the must has not changed in at least 48 hours.  Stuck fermentations are often proceeded by sluggish fermentations, which is when fermentation slows dramatically earlier than expected to a rate of less than 1.001 points per day.  If your fermentation never started, refer to this [section](/protocol/stuck_fermentation#wiki_fermentation_never_started)
 
 #### Importance of Monitoring Fermentation
 
@@ -39,7 +39,7 @@ In some situations, restarting fermentation can be difficult or impossible.  As 
 
 * Musts with a more than 15 g/L residual sugar (SG 1.015) *and* an ABV of less than 11.5% are generally easy to restart
 * Musts with less than 10 g/L residual sugar (SG 1.010) and an ABV of greater than 12% are generally difficult to restart
-* Musts which are [delle limited](https://www.reddit.com/r/mead/wiki/process/stabilization#wiki_via_yeast_alcohol_tolerance) (a combination of ABV and residual sugar that completely inhibits fermentation), it will be impossible to start. 
+* Musts which are [delle limited](/process/stabilization#wiki_via_yeast_alcohol_tolerance) (a combination of ABV and residual sugar that completely inhibits fermentation), it will be impossible to start. 
 
 If you fall into the difficult to impossible territory, it is often advised to dilute your must and add additional sugars to meet the 'easy' category.  A [blending calculator](http://meadcalc.freevar.com/) is helpful.  This can often restart fermentation on its own.
 
@@ -53,13 +53,13 @@ This is generally the most common cause.  Many hobbyist meadmakers often overloo
 
 ##### Did you not add nutrients?
 
-If not, then see [nutrition](https://www.reddit.com/r/mead/wiki/ingredients/nutrients) for a primer on it.  Follow the instructions and add the required nutrients.  Monitor for changes and reassess after 24 hours, if needed.
+If not, then see [nutrition](/ingredients/nutrients) for a primer on it.  Follow the instructions and add the required nutrients.  Monitor for changes and reassess after 24 hours, if needed.
 
 ##### Did you not add enough nutrients?
 
 Next possibility is it wasn't enough.  Many homebrew shops will sell small packages of nutrients with instructions.  These often aren't enough for mead and are aimed at country fruit winemaking, which has some nutrients from the fruit available.
 
-See [nutrition](https://www.reddit.com/r/mead/wiki/ingredients/nutrients) and add the difference.  Monitor for changes and reassess after 24 hours, if needed.
+See [nutrition](/ingredients/nutrients) and add the difference.  Monitor for changes and reassess after 24 hours, if needed.
 
 #### Temperature
 
@@ -79,7 +79,7 @@ An example of why pH is a tough topic: citric acid is more toxic to brewer's yea
 
 ##### Fatty Acids
 
-A general cause of fermentation problems isn't acids in general but excess fatty acids.  They are synthesized by yeast and used in reproduction but also dissolve when ABV increases and waxes dissolve.  They are known to cause stalls.  Yeast hulls up to 0.5-1g/gal or 0.5-1g/4L is the recommended course.  Substitute [boiled yeast](https://www.reddit.com/r/mead/wiki/ingredients/nutrients#wiki_using_boiled_bread_yeast_.28bby.29_as_a_fermaid_o_substitude) at the same rate since we only want their hulls.  A small amount of YAN is introduced but that is a side effect instead of intent and is small enough to safely be ignored.
+A general cause of fermentation problems isn't acids in general but excess fatty acids.  They are synthesized by yeast and used in reproduction but also dissolve when ABV increases and waxes dissolve.  They are known to cause stalls.  Yeast hulls up to 0.5-1g/gal or 0.5-1g/4L is the recommended course.  Substitute [boiled yeast](/ingredients/nutrients#wiki_using_boiled_bread_yeast_.28bby.29_as_a_fermaid_o_substitude) at the same rate since we only want their hulls.  A small amount of YAN is introduced but that is a side effect instead of intent and is small enough to safely be ignored.
 
 ##### Rectifying pH/acid problems
 
@@ -97,7 +97,7 @@ Some problems will slip past our eyes and hydrometers.  This assumes the assessm
 
 Gently agitate/swirl/stir to rouse lees from the bottom.  Some of the yeast down there are still good and can be brought back up.
 
-Excess long-chain fatty acids are common stall instigators.  They can be scavenged by 1g/gal or 1g/4L of yeast hulls.  Substitute [boiled yeast](https://www.reddit.com/r/mead/wiki/ingredients/nutrients#wiki_using_boiled_bread_yeast_.28bby.29_as_a_fermaid_o_substitude) at the same rate for their hulls.
+Excess long-chain fatty acids are common stall instigators.  They can be scavenged by 1g/gal or 1g/4L of yeast hulls.  Substitute [boiled yeast](/ingredients/nutrients#wiki_using_boiled_bread_yeast_.28bby.29_as_a_fermaid_o_substitude) at the same rate for their hulls.
 
 ### Step 4:  Pitch a Restart Yeast
 
@@ -122,7 +122,7 @@ It is recommended to follow the restart protocol below for the best chances of r
 
 #### Starting gravity too high 
 
-Gravities above 1.15 are difficult to begin fermentation on.  Dilute to a reasonable level (like 1.12) and repitch.  Consider [step feeding](https://www.reddit.com/r/mead/wiki/process/step_feeding) to obtain higher ABVs without having to have too high SGs.
+Gravities above 1.15 are difficult to begin fermentation on.  Dilute to a reasonable level (like 1.12) and repitch.  Consider [step feeding](/process/step_feeding) to obtain higher ABVs without having to have too high SGs.
 
 #### Preservatives in juice
 

@@ -31,7 +31,7 @@ If the yeast reach their maximum ABV tolerance, they will become inactive. The e
 
 ####Sterile Filtration
 
-This is a method often used in a commercial setting. It's possible, but relatively expensive, to do this on a homebrew scale. Read about this in the [Via Sterile Filtration](https://www.reddit.com/r/mead/wiki/process/stabilization#wiki_via_sterile_filtration) section on this wiki's Stabilization page for more detailed information.
+This is a method often used in a commercial setting. It's possible, but relatively expensive, to do this on a homebrew scale. Read about this in the [Via Sterile Filtration](/process/stabilization#wiki_via_sterile_filtration) section on this wiki's Stabilization page for more detailed information.
 
 ####Bottle Pasteurization
 
@@ -43,4 +43,4 @@ You back sweeten to have a sweeter end product. You might want this to bring out
 
 To back sweeten, you need first establish your desired level of sweetness. Second, you calculate how much sweetener that level of sweetness will require. Next, you measure it out and gently mix it with the mead. Lastly, you wait for the product to integrate over time and clear up, while you monitor the mead for signs of refermentation.
 
-Detailed information can be found on this wiki's [Back Sweetening](https://www.reddit.com/r/mead/wiki/process/back_sweeten) page.
+Detailed information can be found on this wiki's [Back Sweetening](/process/back_sweeten) page.

@@ -11,7 +11,7 @@ These schedules are presented as of October 2021 and may not represent the lates
 
 ### Upfront
 
-Simply involves adding all the nutrients needed at or around yeast pitch. The bare minimum at accomplishing nutrition. Can be useful and recommended in low gravity/hydromels where the fermentation will complete before the schedule would. Fairly common for beginners and pairs just fine with [boiled yeast](https://www.reddit.com/r/mead/wiki/ingredients/nutrients#wiki_using_boiled_bread_yeast_.28bby.29_as_a_fermaid_o_substitude).
+Simply involves adding all the nutrients needed at or around yeast pitch. The bare minimum at accomplishing nutrition. Can be useful and recommended in low gravity/hydromels where the fermentation will complete before the schedule would. Fairly common for beginners and pairs just fine with [boiled yeast](/ingredients/nutrients#wiki_using_boiled_bread_yeast_.28bby.29_as_a_fermaid_o_substitude).
 
 ### TOSNA
 

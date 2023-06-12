@@ -17,44 +17,44 @@ Have fun!
 
 ###Beginner
 
-[Basic Traditional](https://www.reddit.com/r/mead/wiki/recipes/beginner/0001) by /u/StormBeforeDawn
+[Basic Traditional](/recipes/beginner/0001) by /u/StormBeforeDawn
 
-[Basic Metheglin](https://www.reddit.com/r/mead/wiki/recipes/beginner/0002) by /u/StormBeforeDawn
+[Basic Metheglin](/recipes/beginner/0002) by /u/StormBeforeDawn
 
-[Basic Melomel](https://www.reddit.com/r/mead/wiki/recipes/beginner/0003) by /u/Delta-Hotel
+[Basic Melomel](/recipes/beginner/0003) by /u/Delta-Hotel
 
-[Basic Cyser](https://www.reddit.com/r/mead/wiki/recipes/beginner/0004) by /u/StormBeforeDawn
+[Basic Cyser](/recipes/beginner/0004) by /u/StormBeforeDawn
 
 ###Traditional
 
-[Traditional](https://www.reddit.com/r/mead/wiki/recipes/traditionals/0001) by /u/StormBeforeDawn
+[Traditional](/recipes/traditionals/0001) by /u/StormBeforeDawn
 
 ###Metheglin
 
-[Rhodomel](https://www.reddit.com/r/mead/wiki/recipes/metheglins/0001) by /u/StormBeforeDawn
+[Rhodomel](/recipes/metheglins/0001) by /u/StormBeforeDawn
 
-[Chai Metheglin](https://www.reddit.com/r/mead/wiki/recipes/metheglins/0002) by /u/StormBeforeDawn and /u/Cyberrequin
+[Chai Metheglin](/recipes/metheglins/0002) by /u/StormBeforeDawn and /u/Cyberrequin
 
 ### Melomel
 
-[Cherry Melomel](https://www.reddit.com/r/mead/wiki/recipes/melomels/0001) by /u/StormBeforeDawn
+[Cherry Melomel](/recipes/melomels/0001) by /u/StormBeforeDawn
 
-[Blackberry Orange Blossom Melomel](https://www.reddit.com/r/mead/wiki/recipes/melomels/0002) by /u/StormBeforeDawn
+[Blackberry Orange Blossom Melomel](/recipes/melomels/0002) by /u/StormBeforeDawn
 
 ###Cyser
 
-[Standard Cyser](https://www.reddit.com/r/mead/wiki/recipes/cysers/0001) by /u/StormBeforeDawn
+[Standard Cyser](/recipes/cysers/0001) by /u/StormBeforeDawn
 
 ###Capsicumel
 
-[Oaked, Smoked Capsicumel](https://www.reddit.com/r/mead/wiki/recipes/capsicumels/0001) by /u/balathustrius
+[Oaked, Smoked Capsicumel](/recipes/capsicumels/0001) by /u/balathustrius
 
 ###Hydromel
 
-[Sparkling Hydromel](https://www.reddit.com/r/mead/wiki/recipes/hydromels/0001) by /u/balathustrius
+[Sparkling Hydromel](/recipes/hydromels/0001) by /u/balathustrius
 
 ###Other
 
-[Bochet](https://www.reddit.com/r/mead/wiki/recipes/other/0001) by /u/StormBeforeDawn
+[Bochet](/recipes/other/0001) by /u/StormBeforeDawn
 
-[Braggot](https://www.reddit.com/r/mead/wiki/recipes/other/0002) by /u/StormBeforeDawn and /u/DarkoKun
+[Braggot](/recipes/other/0002) by /u/StormBeforeDawn and /u/DarkoKun

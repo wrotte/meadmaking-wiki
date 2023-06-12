@@ -9,7 +9,7 @@ Mead musts are very nitrogen deficient. 'Nutrients' refers to nitrogen sources f
 
 Insufficient nitrogen has various effects from H2S production (rotten egg smell) to very sluggish fermentations (4-6 months or longer) or outright stalls. Yeasts have different levels of nutrient requirements by strain. They are listed by the manufacturer and should be accounted for (for example, RC-212 requires high while EC-1118 requires low). Most mead makers 'stagger' or add nutrients in 3-4 doses throughout the beginning stages of fermentation. Lastly, rehydrating yeast with Go-Ferm increases yeast cell count and viability.
 
-The classic fallacy seen in the meadmaking community is that a 'handful of raisins' is for nutrients. They provide a fraction of the needed nitrogen ([an example is provided here](https://www.reddit.com/r/mead/wiki/faq/alternative_nutrient_sources#wiki_raisins)), it is so little it can often be discounted completely. The recipes here on this wiki will conventional nitrogen sources and omit raisins. Everything raisins provide (nitrogen, flavor, mouthfeel) can be had through other means.
+The classic fallacy seen in the meadmaking community is that a 'handful of raisins' is for nutrients. They provide a fraction of the needed nitrogen ([an example is provided here](/faq/alternative_nutrient_sources#wiki_raisins)), it is so little it can often be discounted completely. The recipes here on this wiki will conventional nitrogen sources and omit raisins. Everything raisins provide (nitrogen, flavor, mouthfeel) can be had through other means.
 
 NOTE: Organic is the chemistry definition meaning hydrocarbon compounds typically (but not exclusively from) biological sources, not the same kind of "FDA organic" labeling which is associated with food examples that are pesticide free, chemical free, etc. Similarly, inorganic is also the chemistry definition meaning not from living things. They are both natural sources and not artificial chemicals.
 
@@ -22,7 +22,7 @@ Often referred to as "DAP" or sold as "Yeast Nutrient."
 
 An inorganic, highly-accessible source of nitrogen. Has the appearance of chunky white salt crystals. Ammonium is one of three primary nitrogen sources for yeast in their metabolism (others are L-arginine and urea). It is cheap, simple, and effective. However, it offers some downsides. It is consumed quickly and can cause temperature spikes as it ramps up metabolism. It encourages the formation of ethyl acetate esters (smell and taste like glue). It can also cause stalls. There are limits placed on how much can be used commercially, but those don't apply to non-commercial uses. It is completely consumed by the yeast during fermentation (when dosed correctly).
 
-Uptake of DAP does not significantly happen above 9% ABV. It is not unusual for stalls of meads fed only DAP to happen here. Consider other nitrogen sources (listed below) and [nutrient schedules](https://www.reddit.com/r/mead/wiki/process/nutrient_schedules) to get the most out of your mead.
+Uptake of DAP does not significantly happen above 9% ABV. It is not unusual for stalls of meads fed only DAP to happen here. Consider other nitrogen sources (listed below) and [nutrient schedules](/process/nutrient_schedules) to get the most out of your mead.
 
 DAP is sometimes sold with Urea as well. [Urea reacts with ethanol to ethyl carbamate, a known animal carcinogen and suspected human carcinogen](https://www.extension.iastate.edu/wine/ethyl-carbamate-content-wines) and has been banned in professional winemaking for about 30 years. LD Carlson DAP and other turbo yeasts often contain these products. Use at your own risk.
 
@@ -47,7 +47,7 @@ A combination of DAP, magnesium sulfate, yeast hulls, and Vitamin B complex that
 
 ####GoFerm
 
-*See [rehydration](https://www.reddit.com/r/mead/wiki/process/rehydration) for more info regarding the process.*
+*See [rehydration](/process/rehydration) for more info regarding the process.*
 
 A natural yeast rehydration nutrient containing some micronutrients. It is a powerful tool to help avoid problem fermentations. Go-Ferm is added during rehydration before adding dried yeast and is not as harsh as DAP based rehydration tools.
 
@@ -84,7 +84,7 @@ Table adapted from C. Bernardo, "Yeast Nutrition in Non-Malt Fermentations", Ome
 
 ###Addition Schedules
 
-See our [staggered nutrient addition page](https://www.reddit.com/r/mead/wiki/process/staggered_nutrient_additions) for more info on schedules and their uses.
+See our [staggered nutrient addition page](/process/staggered_nutrient_additions) for more info on schedules and their uses.
 
 ###Using Boiled Bread Yeast
 

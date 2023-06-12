@@ -32,9 +32,9 @@ Below is a table of beginner friendly fining agents commonly available to most h
 
 A  | B 
 ---|---
-[Bentonite](https://www.reddit.com/r/mead/wiki/process/fining#wiki_bentonite)  |  [Chitosan](https://www.reddit.com/r/mead/wiki/process/fining#wiki_chitosan)
-[Kieselsol](https://www.reddit.com/r/mead/wiki/edit/process/fining#wiki_kieselsol_.28silica_gel.29) | [Isinglass](https://www.reddit.com/r/mead/wiki/process/fining#wiki_isinglass)
-  | [Sparkalloid](https://www.reddit.com/r/mead/wiki/process/fining#wiki_sparkalloid)
+[Bentonite](/process/fining#wiki_bentonite)  |  [Chitosan](https://www.reddit.com/r/mead/wiki/process/fining#wiki_chitosan)
+[Kieselsol](/edit/process/fining#wiki_kieselsol_.28silica_gel.29) | [Isinglass](https://www.reddit.com/r/mead/wiki/process/fining#wiki_isinglass)
+  | [Sparkalloid](/process/fining#wiki_sparkalloid)
 
 Fining agents work best in pairs, so when you decide to clarify your mead, select one from column A, and one from column B.   It is highly recommended to read the section on each fining agent you choose to use.  Aside from bentonite, fining agents are best used after mead has been racked out of the fermenter.  There are two important highlights:
 
@@ -153,7 +153,7 @@ Like gelatin, isinglass requires tannins to work, so if using on a traditional o
 
 If the rehydrated or liquid isinglass has an unpleasant or fishy odor, it has gone bad and should not be used.  
 
-Isinglass should typically only be used on a mead that is almost clear.   It is known for producing fluffy lees that can cling to the sides of the aging vessel, so an extra rack (the first fairly aggressive, not worrying if you pick up a little lees, wait a week, then a careful rack to your bottling bucket) is helpful to minimize losses.  Counter fining with [Kieselsol](https://www.reddit.com/r/mead/wiki/edit/process/fining#wiki_kieselsol_.28silica_gel.29) may help compact the lees.   
+Isinglass should typically only be used on a mead that is almost clear.   It is known for producing fluffy lees that can cling to the sides of the aging vessel, so an extra rack (the first fairly aggressive, not worrying if you pick up a little lees, wait a week, then a careful rack to your bottling bucket) is helpful to minimize losses.  Counter fining with [Kieselsol](/edit/process/fining#wiki_kieselsol_.28silica_gel.29) may help compact the lees.   
 
 Dosing is highly dependent on preparation, follow manufacturer’s directions. 
 
@@ -163,7 +163,7 @@ Chitosan has a strong positive charge and is made from chitin, which for most fo
 
 Chitosan is one of the most effective fining agents for general clarity and in most cases has no impact on aroma or taste.   Unlike gelatin, casein, and isinglass, chitosan does not require tannins to be present for effectiveness, making it particularly suited for meads.   Chitosan is known for producing particularly compact lees.  It is often used to counter fine agents that are known for producing fluffy lees.  
 
-Chitosan is most commonly used together with [Kieselsol](https://www.reddit.com/r/mead/wiki/edit/process/fining#wiki_kieselsol_.28silica_gel.29), and both are most commonly found packaged together as part of the DualFine/SuperKleer bundle.   If using this pairing it is *extremely important* to add the chitosan *after* the kieselsol; depending on who you ask, you should wait anywhere from a couple hours to a couple days between the two.  Twenty four hours is the most common advice. 
+Chitosan is most commonly used together with [Kieselsol](/edit/process/fining#wiki_kieselsol_.28silica_gel.29), and both are most commonly found packaged together as part of the DualFine/SuperKleer bundle.   If using this pairing it is *extremely important* to add the chitosan *after* the kieselsol; depending on who you ask, you should wait anywhere from a couple hours to a couple days between the two.  Twenty four hours is the most common advice. 
 
 Dosing is dependent on preparation.  1% Chitosan is commonly dosed at 5.5-7.5 ml/gal (1.5-2 ml/L).  Stir gently when adding.
 
@@ -186,7 +186,7 @@ Skim milk can be used as a source of casein at a rate of 55-114 ml/gal (15-30 ml
 
 Silica gel is a suspension containing silicon dioxide.  It is a strongly negatively charged fining agent that is particularly effective at general clarification and protein fining.  It is widely considered to have no impact on flavor or aroma, and forms very compact lees. 
 
-It is most widely available along with [Chitosan](https://www.reddit.com/r/mead/wiki/edit/process/fining#wiki_chitosan) in the DualFine/SuperKleer product.  If using this pairing it is *extremely important* to add the chitosan *after* the kieselsol; depending on who you ask, you should wait anywhere from a couple hours to a couple days between the two.  Twenty four hours is the most common advice. 
+It is most widely available along with [Chitosan](/edit/process/fining#wiki_chitosan) in the DualFine/SuperKleer product.  If using this pairing it is *extremely important* to add the chitosan *after* the kieselsol; depending on who you ask, you should wait anywhere from a couple hours to a couple days between the two.  Twenty four hours is the most common advice. 
 
 Kieselsol can be used as a counterfining agent to compact the lees of other fining agents that produce fluffy lees. 
 
