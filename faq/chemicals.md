@@ -33,9 +33,9 @@ The chemicals we use are almost certainly a kind of naturally-occurring chemical
 
 Many things in the brewing world are not organic purely due to the chemistry definition, ergo are inorganic. Organic is a term commonly used to describe food and food products that have not been exposed to certain chemicals, processes, etc. This does not apply in the brewing world too many things. It does still apply to honey (and in rare circumstances, yeast). Here are is a common example of each:
 
-* [DAP](/ingredients/nutrients#wiki_dap_.28diammonium_phosphate.29) - Inorganic nitrogen source
+* [DAP](/ingredients/nutrients#dap_.28diammonium_phosphate.29) - Inorganic nitrogen source
 
-* [Fermaid O](/ingredients/nutrients#wiki_fermaid_o) - Organic nitrogen source
+* [Fermaid O](/ingredients/nutrients#fermaid_o) - Organic nitrogen source
 
 ### Stabilizers
 

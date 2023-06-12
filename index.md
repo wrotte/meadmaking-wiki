@@ -7,7 +7,7 @@ revision_date: 1641573147
 
 This wiki was enabled on June 16, 2015.
 
-This wiki has been opened to general editing for anyone with some chops in /r/mead.  If you'd like to edit this wiki but cannot, you will need to participate more in the community, then come back later. Please try to add useful and relevant content. If you have any questions or concerns related to the wiki itself, feel free to contact the moderators via [modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fmead). If you have questions about making mead, please check the [FAQ](/index#wiki_f.a.q.) or make a post to /r/mead!
+This wiki has been opened to general editing for anyone with some chops in /r/mead.  If you'd like to edit this wiki but cannot, you will need to participate more in the community, then come back later. Please try to add useful and relevant content. If you have any questions or concerns related to the wiki itself, feel free to contact the moderators via [modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fmead). If you have questions about making mead, please check the [FAQ](/index#f.a.q.) or make a post to /r/mead!
 
 The purpose of this wiki is to cover the basics of making mead. More thorough information can be [found here](/resources/reading_list).
 
@@ -73,7 +73,7 @@ ____
 
 * [I'm concerned about using chemicals in my mead](/faq/chemicals)
 
-* [How do I clarify my mead?](/process/fining#wiki_help.21__how_do_i_clear_my_mead.3F)
+* [How do I clarify my mead?](/process/fining#help.21__how_do_i_clear_my_mead.3F)
 
 
 -----
@@ -133,7 +133,7 @@ ____
 
 * [Fining Agents](/process/fining) 
 
-* [Aging](/process/aging#wiki_bulk_aging)
+* [Aging](/process/aging#bulk_aging)
 
 * [Bottling, Kegging, and Other Packaging Options](/process/packaging)
 

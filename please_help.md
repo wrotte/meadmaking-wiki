@@ -46,13 +46,13 @@ Nothing currently flagged.
 
 #### Water
 
-* [Noteworthy Substances and Properties](/ingredients/water#wiki_noteworthy_substances_and_properties)
+* [Noteworthy Substances and Properties](/ingredients/water#noteworthy_substances_and_properties)
 
 #### Aging
 
-* [Using Oak](/process/aging#wiki_using_oak)
+* [Using Oak](/process/aging#using_oak)
 
-* [Clarity](/process/aging#wiki_clarity)
+* [Clarity](/process/aging#clarity)
 
 ### Pages Flagged for Eventual Expansion
 

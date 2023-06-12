@@ -19,19 +19,19 @@ What follows is a short overview of the processes used to stabilize wine. Please
 
 Chemical stabilization can only be done once fermentation has stopped. It does not reliably stop an active fermentation. Fermentation will stop when the yeast hit their alcohol tolerance, when the yeast metabolize all of the sugar, or when conditions change in such a way that yeast can no longer remain active (e.g. the temperature is lowered significantly).
 
-The [chemical additives](/process/stabilization#wiki_via_chemical_additives) potassium metabisulfite and potassium sorbate are the most common way to stabilize mead. It is not 100% effective, as these additives do not effectively *kill* the yeast. Potassium metabisulfite is stuns yeast after fermentation is over and most have dropped into the lees. It creates a hostile environment, but one in which yeast can still exist. Potassium sorbate is a second punch - it renders yeast unable to reproduce, limiting the number of organisms in the medium even if some yeast reactivate. These two chemicals are intended to be used together, and using one on it's own may result in bottle bombs. 
+The [chemical additives](/process/stabilization#via_chemical_additives) potassium metabisulfite and potassium sorbate are the most common way to stabilize mead. It is not 100% effective, as these additives do not effectively *kill* the yeast. Potassium metabisulfite is stuns yeast after fermentation is over and most have dropped into the lees. It creates a hostile environment, but one in which yeast can still exist. Potassium sorbate is a second punch - it renders yeast unable to reproduce, limiting the number of organisms in the medium even if some yeast reactivate. These two chemicals are intended to be used together, and using one on it's own may result in bottle bombs. 
 
 Be aware that *sodium* metabisulfite can also be found on homebrew shop store shelves. Avoid this. Sodium can cause off flavors in your wine, so read the packaging carefully.
 
-To use these products, it will usually suffice to follow the directions on the package, but please see the [Via Chemical Additives](/process/stabilization#wiki_via_chemical_additives) section on this wiki's [Stabilization](/r/mead/wiki/process/stabilization) page for more detailed information. It's a good idea, but not always necessary, to wait a few hours or overnight between adding the stabilization chemicals and back sweetening (if so desired).
+To use these products, it will usually suffice to follow the directions on the package, but please see the [Via Chemical Additives](/process/stabilization#via_chemical_additives) section on this wiki's [Stabilization](/r/mead/wiki/process/stabilization) page for more detailed information. It's a good idea, but not always necessary, to wait a few hours or overnight between adding the stabilization chemicals and back sweetening (if so desired).
 
 ####Reaching ABV Tolerance
 
-If the yeast reach their maximum ABV tolerance, they will become inactive. The environment becomes too hostile for them to continue metabolizing sugar, so they go dormant and drop out of the solution. Mead makers can plan on this tolerance if their recipes are flexible. Read about this in the [Via Alcohol Tolerance](/process/stabilization#wiki_via_yeast_alcohol_tolerance) on this wiki's Stabilization page for more detailed information.
+If the yeast reach their maximum ABV tolerance, they will become inactive. The environment becomes too hostile for them to continue metabolizing sugar, so they go dormant and drop out of the solution. Mead makers can plan on this tolerance if their recipes are flexible. Read about this in the [Via Alcohol Tolerance](/process/stabilization#via_yeast_alcohol_tolerance) on this wiki's Stabilization page for more detailed information.
 
 ####Sterile Filtration
 
-This is a method often used in a commercial setting. It's possible, but relatively expensive, to do this on a homebrew scale. Read about this in the [Via Sterile Filtration](/process/stabilization#wiki_via_sterile_filtration) section on this wiki's Stabilization page for more detailed information.
+This is a method often used in a commercial setting. It's possible, but relatively expensive, to do this on a homebrew scale. Read about this in the [Via Sterile Filtration](/process/stabilization#via_sterile_filtration) section on this wiki's Stabilization page for more detailed information.
 
 ####Bottle Pasteurization
 

@@ -39,7 +39,7 @@ To reiterate: patience is best. If some small globules of honey in the corners a
 
 After you hit your desired final gravity, give it time to clear up, do any final processing like fining or filtration, and confirm that fermentation has not restarted by checking that the specific gravity has not fallen below your desired final gravity.
 
-After this you can [bulk age](/process/aging#wiki_bulk_aging) or even [bottle](/r/mead/wiki/process/packaging) your mead.
+After this you can [bulk age](/process/aging#bulk_aging) or even [bottle](/r/mead/wiki/process/packaging) your mead.
 
 ###Non-Fermentable Sugars
 

@@ -23,7 +23,7 @@ Visit our friends over on Discord!
 
 ### Questions
 
-The [mead subreddit wiki](http://www.reddit.com/) and [FAQ](/index#wiki_f.a.q.) are valuable resources.
+The [mead subreddit wiki](http://www.reddit.com/) and [FAQ](/index#f.a.q.) are valuable resources.
 
 Please consult [Basic Problems (AKA: Did I ruin my mead?)](/faq/basic_problems) before submitting your question.
 

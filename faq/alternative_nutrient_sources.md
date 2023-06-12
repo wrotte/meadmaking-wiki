@@ -11,7 +11,7 @@ For some sources, it may not be easy to determine the nitrogen content of the ad
 
 ###Dead Yeast
 
-Dead yeast cells can themselves be "cannibalized" by a growing yeast colony. There are several additives available in stores. Yeast Hulls or Ghosts contain only the hulls of dead yeast. Yeast Extract contains whole and partial dead yeast cells, and is the richer nutrient. You can also make your own yeast extract slurry by boiling cheap bread yeast.  See the section on [boiled bread yeast as Fermaid O substitute](/ingredients/nutrients#wiki_using_boiled_bread_yeast_.28bby.29_as_a_fermaid_o_substitude) under nutrition for details and how to make it.
+Dead yeast cells can themselves be "cannibalized" by a growing yeast colony. There are several additives available in stores. Yeast Hulls or Ghosts contain only the hulls of dead yeast. Yeast Extract contains whole and partial dead yeast cells, and is the richer nutrient. You can also make your own yeast extract slurry by boiling cheap bread yeast.  See the section on [boiled bread yeast as Fermaid O substitute](/ingredients/nutrients#using_boiled_bread_yeast_.28bby.29_as_a_fermaid_o_substitude) under nutrition for details and how to make it.
 
 ###Fruit
 

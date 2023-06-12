@@ -9,7 +9,7 @@ revision_date: 1660934780
 
 ## Style Classification
 
-See our the [BJCP section](/guides/style_guidelines#wiki_bjcp_style_guidelines) under our style guidelines page for classifications.
+See our the [BJCP section](/guides/style_guidelines#bjcp_style_guidelines) under our style guidelines page for classifications.
 
 ## Entering a Competition
 
