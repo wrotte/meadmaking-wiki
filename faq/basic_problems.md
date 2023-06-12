@@ -47,7 +47,7 @@ If the mead has aged a long time without clearing, you can consider [fining prod
 
 ### My mead smells weird.
 
-If it smells like rotten eggs, the yeast are telling you that they're starved of nitrogen. Adding additional nitrogen (Diammonium Phosphate, nutrient additives, [raisins](https://old.reddit.com/r/mead/wiki/faq/alternative_nutrient_sources#wiki_raisins), yeast hulls, etc) should clear this right up most of the time.
+If it smells like rotten eggs, the yeast are telling you that they're starved of nitrogen. Adding additional nitrogen (Diammonium Phosphate, nutrient additives, [raisins](r/mead/wiki/faq/alternative_nutrient_sources#wiki_raisins), yeast hulls, etc) should clear this right up most of the time.
 
 If this is your first mead, and it doesn't smell offensive, this might just be how mead smells when it's fermenting. Don't sweat it. Wait it out.
 

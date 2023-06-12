@@ -75,6 +75,6 @@ When using bottles sealed with corks, several factors can place a limit on the a
 
 ####Finings
 
-[Please see the article on fining.](https://old.reddit.com/r/mead/wiki/process/fining)
+[Please see the article on fining.](r/mead/wiki/process/fining)
 
 ####Time

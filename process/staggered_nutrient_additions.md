@@ -39,7 +39,7 @@ In the example below, purely organic nitrogen sources are used first. Sources co
 
 ###Example
 
-See [Nutrient Schedules](https://old.reddit.com/r/mead/wiki/process/nutrient_schedules) for several additional specific schedules.
+See [Nutrient Schedules](r/mead/wiki/process/nutrient_schedules) for several additional specific schedules.
 
 The following is an example and is intended for a 5 gallon batch of a normal strength (≤14%) must fermented with a low nutrient requirement yeast, like Narbonne.
 

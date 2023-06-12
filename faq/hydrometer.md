@@ -72,6 +72,6 @@ If you are confident in your sanitation, you can return your sample to your ferm
 
 * *How much sugar do I need to make sure I hit X% ABV?* Use an online calculator like the [GotMead Calculator](https://gotmead.com/the-mead-calculator/) to determine your target specific gravity.
 
-* *My brew is drier than I want, how do I know how much sugar to add to backsweeten?* See [back sweetening](https://old.reddit.com/r/mead/wiki/process/back_sweeten)!
+* *My brew is drier than I want, how do I know how much sugar to add to backsweeten?* See [back sweetening](r/mead/wiki/process/back_sweeten)!
 
-* *Is my brew stable enough to bottle?* If you bottle a mead that has not finished fermenting, pressure can build up and cause the bottles to explode! Taking gravity readings at intervals will confirm that fermentation is not at high risk of restarting. If you are inexperienced, however, read about [stabilization](https://old.reddit.com/r/mead/wiki/process/stabilization) as well.
+* *Is my brew stable enough to bottle?* If you bottle a mead that has not finished fermenting, pressure can build up and cause the bottles to explode! Taking gravity readings at intervals will confirm that fermentation is not at high risk of restarting. If you are inexperienced, however, read about [stabilization](r/mead/wiki/process/stabilization) as well.
