@@ -1,6 +1,11 @@
 ---
-revision_id: a68c4734-69cb-11ed-96ba-0abaf8a20b93
-revision_date: 1669055891
+title: Bench Trials
+description: 
+published: 1
+date: 2023-06-12T16:38:15.987Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:22.182Z
 ---
 
 # Bench Trials
