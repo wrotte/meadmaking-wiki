@@ -1,15 +1,20 @@
 ---
-revision_id: acf9da9a-5198-11e9-9bff-0e0d20723770
-revision_date: 1553805179
+title: Cleaning
+description: 
+published: 1
+date: 2023-06-12T16:38:55.659Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:25.380Z
 ---
 
-##Cleaning
+## Cleaning
 
 So, what is cleaning? It's important to understand the differences between clean, sanitized, and sterile. Cleaning is the removal of material from the surface. Sanitizing means reducing the number of organisms on a surface, usually to an acceptable level. Sterilizing means removing all organisms. In mead making, we aren't concerned with sterility. That's mostly reserved for hospital-grade equipment. We do care about cleaning and sanitizing, however.
 
 "Clean" equipment isn't *yet* ready to use. After cleaning your equipment, it should be [sanitized](/process/sanitation).
 
-###Brushes and Scrubbing
+### Brushes and Scrubbing
 
 What you'll need depends on what you're cleaning, and how badly it is soiled. 
 
@@ -17,7 +22,7 @@ For a glass carboy, you will benefit from having a cleaning brush (or several). 
 
 For plastic equipment like a PET carboy like a Better Bottle, you should *not* use a brush or anything to scrub the interior - they can scratch relatively easily, which creates a place for bacteria to hide. If you have very stubborn material you need to remove, you can use a clean microfiber cloth and hot water (or a homebrew equipment cleaning solution). Using just enough liquid to float the cloth, you can rock the carboy in a way to gently scrub the problem area.
 
-###Cleansers
+### Cleansers
 
 More thorough cleanings are still necessary from time to time. For these, there are several purpose-formulated products on the market, including One-Step, Powdered Brewery Wash (PBW), EasyClean, and B-Bright. You can also use unscented dish soap in a pinch (you'll want to rinse very well afterward). When using these products, read the instructions and follow them! Some are oxygen cleaners. Some are surfactants. Some require a rinse and others do not.
 
