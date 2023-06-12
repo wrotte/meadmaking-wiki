@@ -1,6 +1,11 @@
 ---
-revision_id: a3ffce4a-db2a-11e6-9f1b-127adb580076
-revision_date: 1484488686
+title: Herbs and Spices
+description: 
+published: 1
+date: 2023-06-12T22:46:32.153Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:59:48.121Z
 ---
 
 ## Herbs and Spices
