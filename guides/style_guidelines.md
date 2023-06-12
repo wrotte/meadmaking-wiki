@@ -1,6 +1,11 @@
 ---
-revision_id: e42abb1e-26da-11ec-81b8-0a7257ee1041
-revision_date: 1633548211
+title: Style Guidelines
+description: 
+published: 1
+date: 2023-06-12T22:53:26.019Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:59:33.273Z
 ---
 
 # Style Guidelines
