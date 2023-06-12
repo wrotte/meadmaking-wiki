@@ -1,16 +1,21 @@
 ---
-revision_id: 3c1b5fa8-c3f2-11ed-b22b-da060bb34abe
-revision_date: 1678968067
+title: Process Summary
+description: 
+published: 1
+date: 2023-06-12T16:44:52.210Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:48.162Z
 ---
 
-##Process Summary
+## Process Summary
 
 The purpose of this page is to be a resource for common questions on process that are not covered well in other sections, or to condense things down to the most important points. It is intended to be a resource for people who have read the rest of the wiki and are looking to bring it all together for improving their batches, or for making their first batch from an informed position. It tries to hammer all the basics together into one dense read and references the other pages when more detail is required. It's also a reference for me, /u/stormbeforedawn to copy paste into repeated questions on the subreddit. 
 
 
 
 
-###Abreviations, slang and other lingo            
+### Abreviations, slang and other lingo            
 
 
 Abbreviation | Definition
@@ -26,7 +31,7 @@ Brix | The sugar content of a solution. One degree Brix is 1 gram of sucrose in 
 SNA | Staggered Nutrient Addition. Adding nutrition over multiple steps to reduce spikes in temperature, colony growth or fermentation rate. 
 
    
-###Using Meadcalc
+### Using Meadcalc
 [Meadcalc](http://meadcalc.freevar.com/) is the basic building block of making your own recipes and nutrition schedules. It gets you close to your starting gravity, which you will generally be verifying with a hydrometer. It reads about 1% potential ABV lower for a given specific gravity than Batchbuilder at 18%. [Batchbuilder](http://www.meadmakr.com/batch-buildr/) uses a different formula, and about .5% lower than a typical hydrometer. Which Calculator is the most accurate is up to some debate, but batchbuilder is generally considered to be the most accurate. You can read [here](http://www.fermcalc.com/fermcalc_alcohol.html#ucdavis) if you want to see all the methods for predicting and measuring ABV. It's trickier than you would expect. The long and short of it is that how much sugar is available to ferment in a must is a little complicated. When dissolving 1 gallon honey in 1 gallon water you actually get a little less than 2 gallons total volume. Chemistry is complicated, and the idea is to keep this tutorial simple. Meadcalc is one of the most powerful tools available at the moment, and it is free, and the errors at typical wine ABVs are negligible. Do take the numbers with a grain of salt from it and any other calculator when you approach dwójniak style recipes with nearly even amounts of honey and water and ~1.200 SGs. I will walk through the process of setting up and using meadcalc as a powerful brewing tool. If you are doing a traditional, or have no other fermentable sugars, consider using batchbuilder because of how well integrated it is with yeast selection, gravity, and nutrition. 
 
 https://imgur.com/a/vjtXVGB Setting up Meadcalc
@@ -43,7 +48,7 @@ For reasonable estimates on fruit volume you can use this website or others like
 
 Further reading on Gotmead on the calculator and more info on the blending calcs is available here [Gotmead](http://gotmead.com/blog/mead-calculator-help/)
 
-###Nutrition
+### Nutrition
 
 Nitrogen is the building block of yeast nutrition. [Nutrients](/ingredients/nutrients) can be seen on the wiki explaining what each one is. 
 
@@ -59,7 +64,7 @@ Some yeast need more nutrition, some need less. [Here](http://www.piwine.com/med
 
 Using Goferm nutrient and an appropriate target yan can greatly reduce the risks of stalled batches and off flavors, as well as reducing the risk of infection. There are a lot of nutrition regimens out there, the largest being ToSNA, SNA, and a fermK based SNA. Any one of the three will get the job done when used with Goferm, and you will see a world of improvement in your brewing. 
 
-###YAN calcs 
+### YAN calcs 
 Proper nutrition is what sets a good mead maker apart from an inexperienced one. A good mead with good nutrition can be done and fit to drink in a quarter of the time with adequate YAN. Fruit and raisins add significant nitrogen when added at several pounds per gallon levels, but a handful of raisins is NOT a suitable replacement for real nutrition if your goals are the quickest, high quality and predictable turnarounds. Fruit, like raisins, can help a lot with mouthfeel and for making more complex flavors. There is a reason a lot of JAOM style meads use them. Dry, thin, low ABV meads with no tannin or acid are not often great meads. 
 
 YAN stands for yeast assimilable nitrogen. The [whitepaper](https://docs.google.com/document/d/11pW-dC91OupCYKX-zld73ckg9ximXwxbmpLFOqv6JEk/edit) goes into great detail on nutrition. This section will explain how to use the [YAN nutrient calculator](https://docs.google.com/spreadsheets/d/1W8Pp52vFx9g-Uk7aq4WK66Kg_TI5nTrI32sBc5fGaPU/edit#gid=0). 
@@ -76,7 +81,7 @@ On this note, one thing to think about in the instructions is Step 3. I use 50pp
 
 If you have Goferm, and a correct target YAN PPM you will ferment quickly to completion without stalls, off flavors and a whole host of other issues. If you are struggling with consistent fermentation, this is where you want to start improving.
 
-###Overview of a brew day
+### Overview of a brew day
 Get your yeast. This is where the brew day starts. It determines the gravity you start with and your final gravity. Do you want a sweet mead and your yeast has 14% tolerance? Use Meadcalc to find out how much sugar you need to add to get 16% potential, and you will have 2% residual. Start rehydrating this 2 hours or so before you want to pitch.
 
 Get your water. You want spring water, and not distilled unless you intend to salt balance like it’s a beer. Very little research is done with mead in this respect. For a good rule of thumb, if you like the taste it’s good to use. You do not want anything with chlorine/chloramine in it. 
@@ -92,22 +97,22 @@ Get your adjuncts. These are spices, peppers, and everything that doesn't contri
 Once you have everything together, scrub, rinse then sanitize all your equipment with starsan. Bleach reacts with DAP, and generally isn’t a useful tool for a brewer. Iodophor is a common sanitizer but it stains badly. Mix your must and prepare your ingredients as stated above. Your must should be heated or cooled until it is between room temperature and 80 degrees.  While this is happening you should have your yeast rehydrating in Goferm. There are no substitutes if you are stateside at the time of this writing for goferm rehydration nutrients. Rehydration nutrients are NOT the same as "nutrient", "energizer", or even other Fermaid Products. Rehydrate at your yeast's desired temperature and leave it until your rehydration is within 10 degrees Fahrenheit of your must. Some brewers prefer to attemper the yeast addition into the must in a staggered fashion. Your must is now complete. Add an air lock and wait for the ferment to begin. It is best practice to add no other nutrients at this point, and then to begin the staggered nutrient protocol of your choice after 24 hours.
 
 
-###Overview of the fermentation
+### Overview of the fermentation
 
 Every day, up to twice a day till the 1/3rd sugar break you should be aerating. This is commonly done with a drill stir and are commonly available at a home supply store. Aeration promotes strong cells walls and helps yeast ferment to completion without off flavors. This helps prevent stalls due to ABV. A drill stir and fermenting in a bucket is one of the easiest ways to do this, but there are other methods like O2 stones, shaking and so on. Each day take a hydro reading to get a feel for how they yeast is doing, and consider recording the data in a journal. This is easier in a 5 gallon pail and in smaller batches a refractometer really shines. Note that a refractometer requires a hydrometer to calibrate and charts must be used to correct SG readings from the presence of alcohol. 
 
 Nutrients should be done at 24 hours, 48 hours and the 1/3rd sugar break. Write down how much you are adding and your target YAN, determined in the YAN Calcs section. Generally you want to splint your total nutrient addition into even thirds and add equal amounts each time of each nutrient. After 2-4 weeks you should remove any fruit or solids in the mead, they quickly become an infection vector. At 4-8 weeks the mead should be clearing up and the lees dropping. Once this is done, rack. Being overzealous in racking results in oxidation and gains nothing. Only at larger volumes than homebrew will leaving the mead on the lees be an issue for 8 weeks. After the mead is reasonably clear (or earlier) sample the mead to make sure you don’t need to backsweeten, add in more adjuncts, or tweak the tannin/acid balance to get a good mead. Very often a small amount of sugar and acid can dramatically change the way a honey or fruit presents. 
 
-###Secondary 
+### Secondary 
 
 Secondary refers to the process that follows "primary" fermentation, typically involving racking into a new vessel (typically glass) to get the mead off the gross lees once fermentation has completed. While it is possible to involve a "secondary fermentation" at this stage (such as using brettanomyces), it most commonly refers to the stage where backsweetening, aging, clearing, and other adjustments of the final mead occurs.
 
 The goal for this stage is clarity, maturation, and balancing. Mead can be damaged by improper storage and handling at this phase (see [bulk aging](/process/aging#bulk_aging) for more details). Use best practices will ensure the longest lifespan and highest flavor potential for your mead.
 
-###When to stagger sugar
+### When to stagger sugar
 I stagger sugar whenever I want to push the limit of what a yeast is capable of. The only time it makes sense to do this, is when you can’t pick a yeast strain that fits your needs otherwise at that yeast’s stated ABV. Two common yeasts to do this with are 1118 and WLP-099 having an 18% and 25% ABV tolerance respectively. WLP-099 is less predictable and generally requires more care with temperature and pH and ferments slower as a whole. Staggered sugars work well with any champagne yeast as well. Other instances could be when you want to get a specific ester out of a yeast, but want an ABV that it doesn't generally go to. Staggering sugar pushes far past an yeasts intended ABV when combined with modern nutrition and a rapid ferment. It is possible to go 4% or more past stated tolerances this way. The general idea behind staggered sugar is to start with a third of your honey in the batch and then add more every time you get to ~1.050 SG. I generally split my sugar additions into 5ths, 24h / 48h / 1/3rd sugar as per normal, and then Fermaid O/K on the second two sugar additions to hit my total YAN target. DAP cannot be consumed by yeast past 10% ABV, and when pushing the envelope you need to make sure additions of it are front loaded.
 
-###Stabilization, do’s and dont’s 
+### Stabilization, do’s and dont’s 
 You have a few options. Heat, filter, chemicals and ABV are the 4 most common ones, with ABV being the simplest and chemical stabilization being extremely common when compared to sterile filtration and heat. See these two links for stabilization on the wiki [Stabilization-Basics](/faq/stabilization_and_backsweetening) and [Stabilization-The Gritty Details](https://www.reddit.com//process/stabilization)
 
 
@@ -118,6 +123,6 @@ Again, bottle bombs are not fun. Do your reading on stabilization!
 A final option is nonfermentables. Let’s say you don’t care for any of the methods above. Xylitol is a natural sweetener that doesn’t have a chemical flavor like Splenda and the like and is a sugar alcohol. It’s about 2/3rds as sweet as real sugar (Warning:  Xylitol is **extremely** toxic to dogs.  If you choose to use it, take care no dogs have opportunity to consume your mead and warn anyone you gift a bottle to). Erythritol is another option, I have not personally tried it but it looks very cost effective and is supposed to be easier on the gut than other sugar alcohols. Lactose can add body as well as maltodextrin. Both can be fermented by some more interesting bacteria and infections and even some yeasts. Never bottle straight away after adding sugars, no matter the way you are intending to prevent refermentation. More reading on backsweetening is available here [Backsweetening](/process/back_sweeten)
 
 
-###Acid tannin balance
+### Acid and tannin balance
 
 This is a very important step, especially when making your own recipes. In a removed tasting sample, try to add small amounts of cocktail bitters, table sugar and lemon juice. The balance between the three is like a stool with three legs. It can be shorter or taller, but if one is out of whack it doesn't sit right. This can quickly tell you if your mead would fare better with a different acid/sugar/tannin balance. When you are ready to scale it to your batch oak or wine tannin powders are good adjuncts to enhance bitterness. On future batches, higher ABV can increase bitterness. Citrus pith can add bitterness as well as many other adjuncts. For acid or tartness, a variety of fruits could be used in secondary, but sometimes just a little acid available at any brewing store can make flavors pop. Options are citric, tartaric and malic acid. Each lends a little different flavor and I keep all 3 on hand.
