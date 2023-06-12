@@ -2,17 +2,17 @@
 title: Main Page
 description: The main page
 published: 1
-date: 2023-06-12T17:11:49.041Z
+date: 2023-06-12T17:25:17.029Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-12T14:46:37.284Z
 ---
 
-## Welcome to the /r/mead wiki!
+## Welcome to the Modern Meadmaking wiki!
 
-This wiki was enabled on June 16, 2015.
+This wiki was migrated from the reddit.com/r/mead wiki on June 12 2023, which itself was started on June 16, 2015.
 
-This wiki has been opened to general editing for anyone with some chops in /r/mead.  If you'd like to edit this wiki but cannot, you will need to participate more in the community, then come back later. Please try to add useful and relevant content. If you have any questions or concerns related to the wiki itself, feel free to contact the moderators via [modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fmead). If you have questions about making mead, please check the [FAQ](/index#f.a.q.) or make a post to /r/mead!
+This wiki instance is still being established and migrated, and is not yet open for public contributions. 
 
 The purpose of this wiki is to cover the basics of making mead. More thorough information can be [found here](/resources/reading_list).
 
