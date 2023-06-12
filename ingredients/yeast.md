@@ -1,6 +1,11 @@
 ---
-revision_id: 29b6bac2-bb80-11ec-94f5-4abdeeb6c5fb
-revision_date: 1649891967
+title: Yeast
+description: 
+published: 1
+date: 2023-06-12T22:49:08.111Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:05.533Z
 ---
 
 ## Yeast
