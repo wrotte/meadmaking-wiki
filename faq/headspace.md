@@ -1,6 +1,11 @@
 ---
-revision_id: f7a499d8-30ff-11ec-b0c1-0218b8c19bb5
-revision_date: 1634663647
+title: Headspace
+description: 
+published: 1
+date: 2023-06-13T03:30:49.152Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:58:50.263Z
 ---
 
 ## How much headspace is too much headspace? What do I do about it?
