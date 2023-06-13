@@ -1,6 +1,11 @@
 ---
-revision_id: 3db20dc8-2144-11ec-9a0d-fa23210ea555
-revision_date: 1632933751
+title: Getting Started
+description: 
+published: 1
+date: 2023-06-13T03:30:07.785Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:58:44.514Z
 ---
 
 ## I'm just getting started. What should I know?
