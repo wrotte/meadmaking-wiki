@@ -1,6 +1,11 @@
 ---
-revision_id: 185dab6e-35d9-11ec-be8a-5e87b6c3f06d
-revision_date: 1635196707
+title: Basic Problems
+description: 
+published: 1
+date: 2023-06-13T03:29:28.633Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:58:38.315Z
 ---
 
 ## Basic Problems
