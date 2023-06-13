@@ -1,6 +1,11 @@
 ---
-revision_id: 53aaabb4-24ac-11ed-ad59-36210e0600fd
-revision_date: 1661455807
+title: Reading List
+description: 
+published: 1
+date: 2023-06-13T03:28:02.919Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:01:24.188Z
 ---
 
 ### Hard Copy and E-Books
