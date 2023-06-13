@@ -1,6 +1,11 @@
 ---
-revision_id: 8ff9d1ee-f670-11ed-a17a-aa9a177e503b
-revision_date: 1684519883
+title: Stabilization
+description: 
+published: 1
+date: 2023-06-13T03:23:19.304Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:58.547Z
 ---
 
 ## Stabilization
@@ -9,7 +14,7 @@ Mead is stabilized for several reasons. A stable mead will not restart fermentat
 
 Mead should be stabilized once fermentation is complete and the mead has begun to clear. You don't have to wait for it to clear completely (as that may cause you to need to wait for it to clear again), but trying to stabilize mead too early can curtail the final stages of fermentation when yeast are cleaning up after themselves.
 
-Stabilization may happen naturally [\(see below\)](/process/stabilization#via_yeast_alcohol_tolerance). For some meads it can be beneficial, though unnecessary - for example a normal strength mead that is completely dry.
+Stabilization may happen naturally [\(see below\)](/process/stabilization#via-yeast-alcohol-tolerance). For some meads it can be beneficial, though unnecessary - for example a normal strength mead that is completely dry.
 
 Always confirm that your mead is stable before storing in sealed vessels or packaging. Confirm this by taking gravity readings after back sweetening and a week or so afterwards.
 
