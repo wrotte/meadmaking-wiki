@@ -1,6 +1,11 @@
 ---
-revision_id: 4a976223-16c9-11ea-927b-0ea1e481a475
-revision_date: 1575486438
+title: Academic Journals
+description: 
+published: 1
+date: 2023-06-13T03:26:25.442Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:01:11.789Z
 ---
 
 TODO: formatting 
