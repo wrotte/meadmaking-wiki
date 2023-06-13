@@ -1,6 +1,11 @@
 ---
-revision_id: 94d1f0d6-2578-11ec-84e3-02e229623081
-revision_date: 1633396036
+title: Yeast Rehydration
+description: 
+published: 1
+date: 2023-06-13T03:21:40.792Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:00:51.510Z
 ---
 
 ## Yeast Rehydration
