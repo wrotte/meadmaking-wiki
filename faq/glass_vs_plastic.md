@@ -1,6 +1,11 @@
 ---
-revision_id: 83e14cac-41aa-11e6-ba85-0efca524b649
-revision_date: 1467611129
+title: Glass Vs. Plastic
+description: 
+published: 1
+date: 2023-06-13T03:30:28.420Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:58:47.394Z
 ---
 
 ## Should I use glass or plastic?
