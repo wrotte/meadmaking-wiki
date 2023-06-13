@@ -1,6 +1,11 @@
 ---
-revision_id: fc7bcd7e-366c-11ec-be3b-e20d5271ccd8
-revision_date: 1635260226
+title: Chemicals
+description: 
+published: 1
+date: 2023-06-13T03:29:49.404Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:58:41.316Z
 ---
 
 ## I'm concerned about using chemicals in my mead
