@@ -1,6 +1,11 @@
 ---
-revision_id: 84edcd24-5910-11e5-b0c8-0e6fcc5f3ed9
-revision_date: 1442036318
+title: Illegal Ingredients
+description: 
+published: 1
+date: 2023-06-13T03:29:09.057Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:58:59.674Z
 ---
 
 ## What if I want to add a controlled substance or otherwise illegal/questionable ingredient to my mead?
