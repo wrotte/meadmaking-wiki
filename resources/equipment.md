@@ -1,6 +1,11 @@
 ---
-revision_id: f4d7f606-4bb1-11ec-9bd8-fe777b74bc71
-revision_date: 1637598823
+title: Equipment
+description: 
+published: 1
+date: 2023-06-13T03:27:45.112Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T15:01:20.662Z
 ---
 
 ## Equipment
