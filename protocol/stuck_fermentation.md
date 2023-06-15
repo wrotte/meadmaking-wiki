@@ -2,7 +2,7 @@
 title: Stuck Fermentation
 description: 
 published: 1
-date: 2023-06-12T22:58:19.969Z
+date: 2023-06-15T18:53:22.965Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-12T15:01:08.618Z
@@ -154,4 +154,4 @@ The second error is rehydrating yeast in too hot water.  Rehydrate in 104F/40C w
 
 ### References
 
-Nielsen MK, Arneborg N. The effect of citric acid and pH on growth and metabolism of anaerobic Saccharomyces cerevisiae and Zygosaccharomyces bailii cultures. Food Microbiol. 2007 Feb;24(1):101-5. doi: 10.1016/j.fm.2006.03.005. Epub 2006 Apr 21. PMID: 16943101.
+- Nielsen MK, Arneborg N. The effect of citric acid and pH on growth and metabolism of anaerobic Saccharomyces cerevisiae and Zygosaccharomyces bailii cultures. Food Microbiol. 2007 Feb;24(1):101-5. [doi: 10.1016/j.fm.2006.03.005](https://doi.org/10.1016/j.fm.2006.03.005). Epub 2006 Apr 21. PMID: 16943101.
