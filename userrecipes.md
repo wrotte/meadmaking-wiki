@@ -1,8 +1,12 @@
 ---
-revision_id: 45f15f37-4a42-11eb-a106-0e5f50761663
-revision_date: 1609293406
+title: userrecipes
+description: 
+published: 1
+date: 2023-06-18T17:51:15.103Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:58:09.612Z
 ---
-
 
 ## User Recipes
 
@@ -37,7 +41,7 @@ If anything is goofed, PM /u/Stormbeforedawn to fix it, or just leave a descript
 ### [Melomel](/userrecipes/melomel)
 #### [Viking Blod](/userrecipes/melomel#viking-blod)
 #### [Cherry Superfruit](/userrecipes/melomel#cherry-superfruit)
-#### [Wedding Wine #3](/userrecipes/melomel#wedding-wine-3
+#### [Wedding Wine #3](/userrecipes/melomel#wedding-wine-3)
 #### [The Viking Midget](/userrecipes/melomel#the-viking-midget)
 #### [Pineapple Grapefruit 3](/userrecipes/melomel#pineapple-grapefruit-3)
 #### [Triple Berry Crusher V4](/userrecipes/melomel#triple-berry-crusher-v4)
