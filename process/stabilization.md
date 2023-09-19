@@ -2,7 +2,7 @@
 title: Stabilization
 description: 
 published: 1
-date: 2023-06-13T03:23:19.304Z
+date: 2023-09-19T16:12:28.359Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-12T15:00:58.547Z
@@ -52,7 +52,7 @@ There are test kits to detect free SO2. Accuvin makes one of these and provides 
 
 ##### Sulfite Dosing Chart
 
-pH | Target Free SO2 (PPM) | K-Meta **(grams/5 gallons)** † | K-Meta **(grams/gallon)** † | Campden Tablets per 5 gallons (roughly)‡
+pH | Target Free SO2 (PPM or mg/L) | K-Meta **(grams/5 gallons)** † | K-Meta **(grams/gallon)** † | Campden Tablets per 5 gallons (roughly)‡
 ---|---|---|---|---
 2.9 | 7-11| .23-.37 | .05-.07 | .5 - 1
 3.0 | 8-13 | .27-.43 | .05-.09 | .5 - 1
@@ -71,7 +71,7 @@ pH | Target Free SO2 (PPM) | K-Meta **(grams/5 gallons)** † | K-Meta **(grams/
 
 ‡ Divided the values from Required K-Meta column by .44 and rounded to nearest .5.
 
-A finished dry mead's pH is often below 3.2. 3.5 and below is fairly typical for a sweet mead. As you can see, most meads will need far less than 1 tablet per gallon or 50-75 PPM free SO2 provided by 1/4 teaspoon of potassium metabisulfite powder.
+A finished dry mead's pH is often below 3.2. 3.5 and below is fairly typical for a sweet mead. As you can see, most meads will need far less than 1 tablet per gallon or 50-75 PPM (same as mg/Liter) free SO2 provided by 1/4 teaspoon of potassium metabisulfite powder.
 
 If you're able to test for free SO2 *and* pH before adding potassium metabisulfite, use the following formula to determine how many grams of potassium metabisulfite to add.
 
