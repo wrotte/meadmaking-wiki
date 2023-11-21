@@ -2,7 +2,7 @@
 title: Fining Agents
 description: 
 published: 1
-date: 2023-11-21T17:31:37.243Z
+date: 2023-11-21T17:35:15.951Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-12T15:00:31.540Z
@@ -168,7 +168,9 @@ Chitosan has a strong positive charge and is made from chitin, which for most fo
 
 Chitosan is one of the most effective fining agents for general clarity and in most cases has no impact on aroma or taste.   Unlike gelatin, casein, and isinglass, chitosan does not require tannins to be present for effectiveness, making it particularly suited for meads.   Chitosan is known for producing particularly compact lees.  It is often used to counter fine agents that are known for producing fluffy lees.  
 
-Chitosan is most commonly used together with [Kieselsol](/edit/process/fining#kieselsol_.28silica_gel.29), and both are most commonly found packaged together as part of the DualFine/SuperKleer bundle.   If using this pairing it is *extremely important* to add the chitosan *after* the kieselsol; depending on who you ask, you should wait anywhere from a couple hours to a couple days between the two.  Twenty four hours is the most common advice. 
+Chitosan is most commonly used together with [Kieselsol](/edit/process/fining#kieselsol_.28silica_gel.29), and both are most commonly found packaged together as part of the DualFine/SuperKleer bundle.   It is worth noting that the concentration of the chitosan solution sold as part of DualFine is 1.5%, rather than the 1% concentration typically found when purchasing chitosan on its own. 
+
+If using this pairing it is *extremely important* to add the chitosan *after* the kieselsol; depending on who you ask, you should wait anywhere from a couple hours to a couple days between the two.  Twenty four hours is the most common advice. 
 
 Dosing is dependent on preparation.  1% Chitosan is commonly dosed at 5.5-7.5 ml/gal (1.5-2 ml/L).  Stir gently when adding.
 
