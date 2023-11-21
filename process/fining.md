@@ -2,7 +2,7 @@
 title: Fining Agents
 description: 
 published: 1
-date: 2023-06-12T16:24:53.680Z
+date: 2023-11-21T17:31:37.243Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-12T15:00:31.540Z
@@ -77,7 +77,7 @@ Name  | Charge | Mechanism of Action | Recommended dosing | Notes
 Bentonite  | Negative | Charge, adsorption | 1-6 g/gal | Best used during fermentation. If using enzymes, add at least 24 hours after enzyme addition.
 Caesin† | Positive | Charge, adsorption | | Most commonly available as potassium caesinate. 
 Carbon | Insignificant | Adsorption | * |  Dosing depends on grade and how it was processed.  Follow manufacturer directions.
-Chitosan† | Positive | Charge | 5.5-7.5 ml/gal (1.5-2 ml/L) | Most commonly found as part of SuperKleer/DualFine. Can compact fluffy lees from other fining agents. Recommended dosing is for 1% concentration.
+Chitosan† | Positive | Charge | 5.5-7.5 ml/gal (1.5-2 ml/L) |  Typically sold on its own as a 1% concentration solution.  Commonly found as part of SuperKleer/DualFine as a 1.5% concentration solution. Can compact fluffy lees from other fining agents. Recommended dosing is for 1% concentration.
 Egg Whites† | Positive | Charge, bond formation | 0.5-1ml/gal | 
 Gelatin† | Positive | Charge, bond formation | 75mg/gal - 550mg/gal (20mg/L-150mg/L) | Very aggressive, bench trials recommended.  Consider counter fining with bentonite or Kieselsol.
 Gum Arabic | ? | Adsorption | 2-7.5 ml/gal (0.5 ml/L to 2 ml/L) | Commonly sold for winemaking as a liquid 20% solution.
