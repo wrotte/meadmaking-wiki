@@ -2,7 +2,7 @@
 title: Stuck Fermentation
 description: 
 published: 1
-date: 2023-06-15T18:56:36.778Z
+date: 2024-02-16T02:57:54.573Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-12T15:01:08.618Z
@@ -117,8 +117,8 @@ It is recommended to follow the restart protocol below for the best chances of r
 
 1. Add 1.5 g/gal of yeast hulls (boiled bread yeast may be substituted), and wait 48 hours
 2. Rehydrate at least 2g/gal of your restart yeast.  It is highly recommended to rehydrate with GoFerm; if you cannot access GoFerm, rehydrate the yeast in 20 times its weight in 104F water for 20 minutes.  
-3. Add an equal amount of water and must to a new, clean fermentation vessel; the volume of each added should be equal to the amount of water used for yeast rehydration.  
-4. Acclimate  the rehydrated yeast to within 10 degrees of the temperature of the must, pitch into the new fermentation vessel and wait 20 minutes.
+3. Add an equal amount of water and stuck must to a new, clean fermentation vessel; the volume of each added should be equal to the amount of water used for yeast rehydration.  (If you are using 200ml water to rehydrate your yeast, the restart must should consist of 200ml water and 200ml stuck must.) 
+4. Acclimate  the rehydrated yeast to within 10 degrees of the temperature of the restart must, pitch into the new fermentation vessel and wait 20 minutes.
 5. Add 10% of the stuck must to the new fermenter, and wait 30 minutes
 6. Add 20% of the remaining stuck must to the new fermenter and wait 30 minutes.  For best chances of success, repeat three times.
 7. Transfer any remaining stuck must to the new fermenter, being careful to leave the yeast cake behind.
