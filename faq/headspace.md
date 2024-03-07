@@ -2,7 +2,7 @@
 title: Headspace
 description: 
 published: 1
-date: 2023-06-13T03:30:49.152Z
+date: 2024-03-07T21:34:43.780Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-12T14:58:50.263Z
@@ -22,7 +22,7 @@ If your palette is very sensitive to oxidation, you may never want your meads to
 
 **Inert Gas**
 
-You can fill the headspace with inert gas. CO2 works just fine if you already have the set up for kegging. If not, you can buy “wine preserver spray.” It’s a little pricy, but so are the ingredients for 5 gallons of mead. Whether you're using CO2 or a preserver spray, you need to actually flush the headspace. [CO2 easily diffuses with oxygen and ambient air](http://beerandwinejournal.com/can-co2-form-a-blanket/), and does not form a long-lasting blanket of inert gas over the surface of a liquid.
+You can fill the headspace with inert gas. CO2 works just fine if you already have the set up for kegging. If not, you can buy “wine preserver spray.” It’s a little pricy, but so are the ingredients for 5 gallons of mead. Whether you're using CO2 or a preserver spray, you need to actually flush the headspace. [CO2 easily diffuses with oxygen and ambient air](https://beerandgardeningjournal.com/can-co2-form-a-blanket/), and does not form a long-lasting blanket of inert gas over the surface of a liquid.
 
 In either case, you need to make sure your airlock stays intact as much as possible. If you go this route, give it another flush every time you have to open the airlock for a sample or test.
 
