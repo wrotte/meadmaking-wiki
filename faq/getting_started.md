@@ -2,17 +2,17 @@
 title: Getting Started
 description: 
 published: 1
-date: 2025-02-06T00:26:32.531Z
+date: 2025-02-06T00:27:56.479Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-12T14:58:44.514Z
 ---
 
-## I'm just getting started. What should I know?
+# I'm just getting started. What should I know?
 
 Mead is an alcoholic beverage made with honey as the primary fermentable ingredient.  It can include other ingredients such as fruits, herbs, spices, etc.
 
-### Reading and Reference Material
+## Reading and Reference Material
 
 The craft has changed considerably since the legalization of homebrewing in the US.  Be wary of old information.  This is especially true of information 10 or more years old.
 
@@ -22,23 +22,23 @@ For a thorough and reliable reference, consider buying a copy of [The Compleat M
 
 The [BJCP Mead Exam Resource page](https://www.bjcp.org/exam-certification/mead-judge-program/) has links to articles on a variety of related topics. Some of it is very old, but luckily most of the links are dated in some way.
 
-### Overview of Ingredients
+## Overview of Ingredients
 
 This list is not exhaustive.
 
-#### Honey
+### Honey
 
 The *defining* ingredient of mead. Roughly 80% sugars by weight.
 
-#### Water 
+### Water 
 
 Used to dilute honey. May not be necessary in some melomels in which juice suffices for this purpose.
 
-#### Yeast 
+### Yeast 
 
 *Saccharomyces cerevisiae* is a fungus that that consumes certain forms of sugar and releases, as waste, ethanol and CO2 gas.
 
-#### Nitrogen and Micro-nutrient Sources
+## Nitrogen and Micro-nutrient Sources
 
 Every good mead recipe takes into account that honey is devoid of substantial [nutrition.](/resources/advanced_nutrients) Without bolstering the nutrient content of a mead must, the yeast will have trouble doing their job and may not even gain a foothold. Nutrient sources include fruit, diammonium phosphate, pulverized yeast hulls, and various additive products produced by yeast companies.
 
@@ -50,7 +50,7 @@ Mead flavored with fruit is called *melomel*. Some fruits lend a specific name t
 
 Mead flavored with herbs or spices is called *metheglin*. Some herbs and spices also lend special names to mead that contain them. Roses, for example, make *rhodomel*.
 
-### Tips for your First Meads
+## Tips for your First Meads
 
 Try one of the Beginner recipes found [here](/recipes)!
 
@@ -64,7 +64,7 @@ You can find a few [Recipes](/recipes) on this wiki.
 
 Finally, remember that mead is forgiving if you follow the most basic of rules.
 
-### Making your own Recipes
+## Making your own Recipes
 
 Once you get a few batches under your belt, you'll want to start testing out your own ideas. When you reach that point, here are a couple of things to keep in mind.
 
