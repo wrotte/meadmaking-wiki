@@ -2,7 +2,7 @@
 title: Getting Started
 description: 
 published: 1
-date: 2023-06-13T03:30:07.785Z
+date: 2025-02-06T00:26:32.531Z
 tags: 
 editor: markdown
 dateCreated: 2023-06-12T14:58:44.514Z
@@ -20,7 +20,7 @@ You might want to start with [The Basics](http://www.talisman.com/mead/meadfaq.h
 
 For a thorough and reliable reference, consider buying a copy of [The Compleat Meadmaker](http://www.amazon.com/The-Compleat-Meadmaker-Production-Award-winning/dp/0937381802) by Ken Schramm. It's due for an update, but it's still the densest source of meadmaking information in print. The most important updates are that author no longer heats most of his musts at all, and he uses [staggered nutrient additions](/resources/staggered_nutrient_additions) (addressed below).
 
-The [BJCP Mead Exam Resource page](http://www.bjcp.org/mead.php) has links to articles on a variety of related topics. Some of it is very old, but luckily most of the links are dated in some way.
+The [BJCP Mead Exam Resource page](https://www.bjcp.org/exam-certification/mead-judge-program/) has links to articles on a variety of related topics. Some of it is very old, but luckily most of the links are dated in some way.
 
 ### Overview of Ingredients
 
