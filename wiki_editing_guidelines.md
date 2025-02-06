@@ -1,13 +1,18 @@
 ---
-revision_id: 8b00d7a8-366b-11ec-8aaa-fec8ba0e464b
-revision_date: 1635259606
+title: wiki_editing_guidelines
+description: 
+published: 1
+date: 2025-02-06T00:31:31.158Z
+tags: 
+editor: markdown
+dateCreated: 2023-06-12T14:58:12.698Z
 ---
 
-## Editing Guidelines
+# Editing Guidelines
 
 **Read this page entirely before editing the wiki.**
 
-### Rules
+## Rules
 
 **No personal information.** You can be banned site-wide and even jeopardize the existence of /r/mead.
 
@@ -21,13 +26,13 @@ Always include a "reason for revision." This field is found at the bottom of the
 
 Provide sources if possible. If you are the source, show your work.
 
-### When to Create, When and How to "Delete"
+## When to Create, When and How to "Delete"
 
 Think it through before creating a new page. Pages can only be de-listed, they cannot be deleted. Do not create a page without a good reason. Preferably, do not create a new page without consulting the mods or other known wiki editors. Anyone frivolously creating wiki pages may lose editing privileges.
 
 If a page needs to be deleted, please use [modmail](https://www.reddit.com/message/compose?to=%2Fr%2Fmead) to message the /r/mead moderators. Only they are able to de-list (effectively, hide) a wiki page.
 
-### Removing and Editing Content:
+## Removing and Editing Content:
 
 Fix typos, spelling/grammar errors, and redundant sentences at will.
 
@@ -41,11 +46,11 @@ It's okay to remove *obvious* malicious or joke content without warning or conse
 
 Message the mods to de-list a page if necessary, as previously noted.
 
-### Style
+## Style
 
 Aim for semi-formal writing. This is the style you would use to communicate with your boss, teacher, or coworkers, or how you would write a how-to article about a complicated subject. It's important to be concise, precise, and informative.
 
-### Miscellaneous / Consistency
+## Miscellaneous / Consistency
 
 Use a single space after sentences.
 
@@ -53,7 +58,7 @@ Avoid the terms "Primary" and "Secondary," as they can be inexact and confusing 
 
 Read the [Please Help](/please_help) page, and keep it updated. If you are the primary author of an article, add it to the "Proof Read" section.
 
-### Directory Structure and Scope
+## Directory Structure and Scope
 
 Most pages should be placed in a directory or subdirectory. Please see the wiki [sitemap](http://www.reddit.com//pages) to figure out what directories already exist. Use your best judgement. If you're unsure, ask the mods or an approved editor before creating the page. If a subject arguably belongs in more than one place, it's acceptable to duplicate basic information and links across multiple pages. Use thoughtful judgement about when to link to another page vs when to reproduce information.
 
@@ -71,7 +76,7 @@ Scope refers to how many directories deep you have to go to reach the page. For 
 
  * Example (three directories): /wiki/ingredients/fruit/cherries/balaton - **BAD.** There is no justification for this unless your name is Ken Schramm.
 
-### Naming Conventions for Directories and Links
+## Naming Conventions for Directories and Links
 
 Page names are in all *lower case* letters. 
 
@@ -89,19 +94,19 @@ Remove punctuation entirely.
 
  * Example: /wiki/meaderies/schramms_mead
 
-### Page Structure
+## Page Structure
 
 Roughly follow the template as this page. Please note the use of titles and headings that are automatically inserted into the page table of contents in the upper right hand corner.
 
 The template is defined as as follows. The white space indenting is shown only to illustrate grouping and shouldn't be present on the pages.
 
-    Page Title: ## Title (x1)
+    Page Title: # Title (x1)
 
         Brief Introduction: Plain Text Paragraph (x1)
 
-    Heading: ### Heading (x1+ per Page)
+    Heading: ## Heading (x1+ per Page)
 
-        Optional Subheading: #### Subheading (x0+ per Heading) OR Plain Text Paragraphs/Bullets/List/Normal Reddit Syntax (x1+ per Heading)
+        Optional Subheading: ### Subheading (x0+ per Heading) OR Plain Text Paragraphs/Bullets/List/Normal Reddit Syntax (x1+ per Heading)
 
             If using subheading, plain text paragraphs (x1+ per Subheading).
 
@@ -109,6 +114,6 @@ Be aware that subheadings are visually formatted exactly like italics, but autom
 
 (We don't have to be jerks about this - just try to make it look like the rest of the wiki. This has been added so that we can refer to it later.)
 
-### This Page
+## This Page
 
-This page is locked to moderator editing.
+This page should not be changed unilaterally.
